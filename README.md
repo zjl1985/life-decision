@@ -49,6 +49,7 @@ pnpm data       # 重新从 GitHub 下载书稿并生成 src/data/items.json、c
 
 ## 许可与致谢
 
+- 作者：[zero](https://github.com/zjl1985)。
 - 建议内容来自 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)，按 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可使用；本项目只做检索与排序，未改动原意。
 - 决策模型：Jev by [TypeSafe AI](https://typesafe.ai)。
 - 本站内容仅供参考，不构成医疗、法律或财务方面的专业意见。

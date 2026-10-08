@@ -54,28 +54,37 @@ export default function Home() {
             >
               CC BY 4.0
             </a>{" "}
-            许可使用，本站仅做检索与排序，未改动原意。
+            许可使用，本站仅做检索与排序，未改动原意。建议的适用度由{" "}
+            <a
+              className="underline decoration-border underline-offset-4 hover:text-foreground"
+              href="https://typesafe.ai/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Jev 模型
+            </a>
+            打分。
           </p>
           <p>本站内容仅供参考，不构成医疗、法律或财务方面的专业意见；遇到具体问题，请咨询医生、律师或持牌专业人士。</p>
-          <p>
+          <p className="pt-3 text-[13px] text-muted">
+            Made by{" "}
             <a
-              className="inline-flex items-center gap-1.5 underline decoration-border underline-offset-4 hover:text-foreground"
+              className="font-medium text-foreground underline decoration-border underline-offset-4 transition-colors hover:text-accent hover:decoration-accent"
+              href="https://github.com/zjl1985"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              zero
+            </a>
+            <span className="mx-2 text-border">·</span>
+            <a
+              className="inline-flex items-center gap-1.5 text-xs text-subtle underline decoration-border underline-offset-4 hover:text-foreground"
               href={REPO_URL}
               target="_blank"
               rel="noopener noreferrer"
             >
               <GitHubIcon className="h-3.5 w-3.5" />
               本站源码
-            </a>
-            <span className="mx-2 text-border">·</span>
-            Powered by{" "}
-            <a
-              className="underline decoration-border underline-offset-4 hover:text-foreground"
-              href="https://typesafe.ai"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Jev
             </a>
           </p>
         </div>
