@@ -21,7 +21,10 @@ async function fetchWithRetry(url, init = {}, tries = 4) {
         ...init,
         headers: {
           "User-Agent": "life-decision-build-data",
-          ...(process.env.GITHUB_TOKEN ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {}),
+          // 有 GITHUB_TOKEN（如在 GitHub Actions 里）就带上，避免 API 匿名限流；只发给 api.github.com
+          ...(process.env.GITHUB_TOKEN && new URL(url).hostname === "api.github.com"
+            ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` }
+            : {}),
           ...(init.headers || {}),
         },
       });
@@ -224,21 +227,53 @@ for (const { name, text } of files) {
   items.push(...its);
 }
 
-// 校验
+// 校验：上游格式变了、下载不完整时宁可失败，也不覆盖现有数据
 const problems = [];
 const ids = new Set();
 for (const it of items) {
   if (ids.has(it.id)) problems.push(`重复 id ${it.id}`);
   ids.add(it.id);
+  if (!it.title) problems.push(`${it.id} 缺少标题`);
   if (!it.body) problems.push(`${it.id} 缺少「说人话」`);
+  if (!it.cost) problems.push(`${it.id} 缺少「成本」`);
+  if (!it.benefit) problems.push(`${it.id} 缺少「收益」`);
   if (!it.evidence) problems.push(`${it.id} 证据等级无法识别`);
   if (!it.sources.length) problems.push(`${it.id} 没有来源`);
 }
+
+async function readPrevious(file) {
+  try {
+    return JSON.parse(await readFile(path.join(OUT_DIR, file), "utf8"));
+  } catch {
+    return null;
+  }
+}
+const prevItems = await readPrevious("items.json");
+const prevChapters = await readPrevious("chapters.json");
+const prevCount = Array.isArray(prevItems) ? prevItems.length : 0;
+const prevChapterCount = Array.isArray(prevChapters) ? prevChapters.length : 0;
+
+const MIN_ITEMS = 500; // 原书 671 条，远低于这个数说明解析坏了
+const fatal = [];
+if (items.length < MIN_ITEMS) fatal.push(`只解析出 ${items.length} 条（下限 ${MIN_ITEMS}）`);
+if (prevCount && items.length < prevCount * 0.9)
+  fatal.push(`条目数从 ${prevCount} 掉到 ${items.length}，减少超过 10%`);
+if (prevChapterCount && chapters.length < prevChapterCount)
+  fatal.push(`章节数从 ${prevChapterCount} 变成 ${chapters.length}`);
+const emptyChapters = chapters.filter((c) => c.count === 0).map((c) => c.file);
+if (emptyChapters.length) fatal.push(`这些章节一条都没解析出来：${emptyChapters.join("、")}`);
+if (problems.length > Math.max(10, items.length * 0.02))
+  fatal.push(`字段缺失/无法识别的问题有 ${problems.length} 个，超过 2%`);
+
+const byEv = items.reduce((a, it) => ((a[it.evidence ?? "null"] = (a[it.evidence ?? "null"] || 0) + 1), a), {});
+const summary = `${chapters.length} 节，${items.length} 条；证据等级分布 ${JSON.stringify(byEv)}；来源链接 ${items.reduce((n, it) => n + it.sources.filter((s) => s.url).length, 0)} 条`;
+if (problems.length) console.warn(`有 ${problems.length} 个问题：\n` + problems.slice(0, 30).join("\n"));
+if (fatal.length) {
+  console.error(`解析结果不可信，未写入任何文件（${summary}）：\n- ` + fatal.join("\n- "));
+  process.exit(1);
+}
+
 await mkdir(OUT_DIR, { recursive: true });
 await writeFile(path.join(OUT_DIR, "items.json"), JSON.stringify(items, null, 1) + "\n");
 await writeFile(path.join(OUT_DIR, "chapters.json"), JSON.stringify(chapters, null, 1) + "\n");
-const byEv = items.reduce((a, it) => ((a[it.evidence ?? "null"] = (a[it.evidence ?? "null"] || 0) + 1), a), {});
-console.log(`解析完成：${chapters.length} 节，${items.length} 条；证据等级分布 ${JSON.stringify(byEv)}；来源链接 ${items.reduce((n, it) => n + it.sources.filter((s) => s.url).length, 0)} 条`);
-if (problems.length) {
-  console.warn(`有 ${problems.length} 个问题：\n` + problems.slice(0, 30).join("\n"));
-}
+console.log(`解析完成：${summary}${prevCount ? `（之前 ${prevCount} 条）` : ""}`);
