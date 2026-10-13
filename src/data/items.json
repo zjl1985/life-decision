@@ -3274,7 +3274,7 @@
   "title": "下午两点以后不碰咖啡因",
   "body": "睡前 6 小时吃下 400 mg 咖啡因，差不多是三四杯咖啡，当晚用仪器测出来少睡 1 小时以上。可自己写的睡眠日记根本看不出差别。一杯 250 mL 的咖啡（107 mg）要在睡前 8.8 小时以上喝完，才不影响睡眠。十一点睡的人，下午两点就是界线。",
   "cost": "不花钱。习惯下午喝咖啡的人，要忍住不喝，需要一点毅力。",
-  "benefit": "睡前 6 小时喝 400 mg 咖啡因（按一杯 250 mL 含 107 mg 算，约三四杯咖啡），仪器测到的总睡眠时间比喝安慰剂少 1.1 到 1.2 小时。安慰剂就是不含咖啡因的对照饮料。可是受试者自己写的睡眠日记没有报出差别，自己察觉不到。把多项研究合起来算（荟萃分析）：咖啡因平均让总睡眠时间减少 45 分钟。躺在床上真正睡着的比例（睡眠效率）下降 7%。一杯 250 mL 的咖啡（107 mg）要在睡前 8.8 小时以上喝完，才不影响睡眠。",
+  "benefit": "睡前 6 小时吃下含 400 mg 咖啡因的药片（按一杯 250 mL 含 107 mg 算，约三四杯咖啡的量），仪器测到的总睡眠时间比吃安慰剂片少 1.1 到 1.2 小时。安慰剂片外观一样，但不含咖啡因。可是受试者自己写的睡眠日记没有报出差别，自己察觉不到。把多项研究合起来算（荟萃分析）：咖啡因平均让总睡眠时间减少 45 分钟。躺在床上真正睡着的比例（睡眠效率）下降 7%。一杯 250 mL 的咖啡（107 mg）要在睡前 8.8 小时以上喝完，才不影响睡眠。",
   "evidence": "A",
   "evidenceNote": null,
   "note": "Drake 那项只有一个实验室做过，用的 400 mg 偏大，等于一次喝掉一天的上限，上限见第 2 节第 26 条（三到四杯咖啡）。咖啡因代谢慢的人，截止时间还要更早。少喝咖啡因换回来的是睡眠时长，和第 3 条（每晚睡够 7 到 8 小时）叠加。",
@@ -7527,6 +7527,47 @@
   },
   "url": "https://eternity4719.github.io/HowToLiveBetter/#e-6-31",
   "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/06-%E5%8F%8D%E9%9D%A2%E6%B8%85%E5%8D%95.md#31-不要指望靠-ai-聊天机器人自己判断病情和法律问题看病打官司花大钱之前把它说的依据找到原文核一遍"
+ },
+ {
+  "id": "6-32",
+  "chapter": 6,
+  "chapterTitle": "反面清单",
+  "chapterShortTitle": "反面清单",
+  "number": 32,
+  "title": "不要因为「人随时会死，早点把钱花完才快乐」就不存钱，三十岁的人约九成能活到六十岁",
+  "body": "按世界卫生组织给中国算的数，三十岁的人约九成二能活到六十岁，一半以上能活到八十岁。年轻人普遍把自己早死的可能估得太高，照这个感觉过日子，存下的钱比该存的少约四分之一。多数人该担心的是钱比人先没了。",
+  "cost": "不花钱。要做的是在冒出「反正说不定哪天就没了」的念头时，先想一下自己活到六十岁的概率。难在周围人都这么说，想买的东西又就在眼前。",
+  "benefit": "先看能活到多少岁。世界卫生组织的全球卫生观察站给中国算了 2023 年的生命表。生命表是按当年各个年龄的死亡率，推算一群人能活多久的表。按这张表，30 岁的人活到 60 岁的概率是 92.0%（男 89.2%，女 94.9%）。活到 65 岁是 87.4%（男 83.0%，女 92.0%）。活到 80 岁是 55.6%（男 45.8%，女 66.1%）。这三组数是拿表里各年龄还活着的人数相除算出来的。活到 65 岁的人，平均还能再活 17.5 年。再看人们自己怎么估。2019 年《金融学杂志》（The Journal of Finance）上的一项研究做了问卷，请人估自己能活多久。结果是年轻人低估自己活下去的概率，老人高估。论文早先的工作稿举过一个例子：一名 28 岁男性实际活过 5 年的概率是 99.4%，他自己估的是 92.8%。作者把人们自己估的概率放进一个标准的「一辈子怎么存钱花钱」的模型里算。和按实际死亡率算相比，年轻人少存 26%，退休的人花存款慢 27%。问卷里把生死估得越歪的人，存钱的做法也越偏，扣掉风险偏好、认知能力和家庭条件之后仍然如此。作者认为，一个原因是人们把少见、让人印象深的死法看得太重",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "定 B 级有几条理由。生命表是世界卫生组织的模型估算，不是国家统计局公布的数。「少存 26%」是模型算出来的，不是跟踪真人数出来的。估生死那项只有一项研究，中国人群没有可以引用的同类数据。收益量级定中，沿用本节第 23 条（别指望买东西改善心情）的口径。少存的钱可能到万元级，但没有数字说明它换回多少，所以不记成大。同一项研究也发现，老人反过来把自己活多久估得太高，存款花得太慢，所以这条主要写给年轻人和中年人。这里不反对为喜欢的东西和经历花钱，要拦的只是「反正会死」这一个理由。真被意外或重病撞上，用得上的是应急金和保险，见第 5 节第 27 条（应急金）和第 5 节第 39 条（扛不住的损失买保险）。家里有人靠你的收入过日子的，见第 5 节第 40 条（定期寿险）。心情差就下单的，见本节第 23 条（买东西改善心情）。受益人是你自己。",
+  "sources": [
+   {
+    "title": "World Health Organization, Global Health Observatory. Life tables: lx - number of people left alive at age x, China, 2023（指标 LIFE_0000000031）",
+    "url": "https://ghoapi.azureedge.net/api/LIFE_0000000031?$filter=SpatialDim%20eq%20'CHN'%20and%20TimeDim%20eq%202023"
+   },
+   {
+    "title": "World Health Organization, Global Health Observatory. Life tables: ex - expectation of life at age x, China, 2023（指标 LIFE_0000000035）",
+    "url": "https://ghoapi.azureedge.net/api/LIFE_0000000035?$filter=SpatialDim%20eq%20'CHN'%20and%20TimeDim%20eq%202023"
+   },
+   {
+    "title": "Heimer RZ, Myrseth KOR, Schoenle RS (2019). YOLO: Mortality Beliefs and Household Finance Puzzles. The Journal of Finance, 74(6), 2957-2996",
+    "url": "https://doi.org/10.1111/jofi.12828"
+   },
+   {
+    "title": "Heimer RZ, Myrseth KOR, Schoenle RS (2016). YOLO: Mortality Beliefs and Household Finance Puzzles. SSRN 工作稿（28 岁男性那个例子出自这一版）",
+    "url": "https://doi.org/10.2139/ssrn.2749543"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "些",
+   "gain": "中",
+   "metric": "金钱"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-6-32",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/06-%E5%8F%8D%E9%9D%A2%E6%B8%85%E5%8D%95.md#32-不要因为人随时会死早点把钱花完才快乐就不存钱三十岁的人约九成能活到六十岁"
  },
  {
   "id": "7-1",
@@ -19494,6 +19535,80 @@
   },
   "url": "https://eternity4719.github.io/HowToLiveBetter/#e-23-23",
   "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/23-%E5%AD%A6%E4%BB%80%E4%B9%88%E6%8A%80%E8%83%BD%E5%88%92%E7%AE%97.md#23-拿到职称不等于涨工资先问清单位是按岗位比例评聘还是评了不一定聘"
+ },
+ {
+  "id": "23-24",
+  "chapter": 23,
+  "chapterTitle": "学什么技能划算",
+  "chapterShortTitle": "学什么技能划算",
+  "number": 24,
+  "title": "本科毕业要不要接着读硕士：先算学费和少挣的两三年工资，再看自己读的专业多挣不多挣",
+  "body": "读硕士要花学费，还要少挣两三年工资，后者通常是大头。英国一项研究扣掉个人差别后，35 岁时读过硕士的女性只多挣约 2%，男性还少挣约 2%。法律、经济、管理类多挣约两成，艺术、英语、哲学类反而少一成以上，所以要按自己的专业算。",
+  "cost": "不花钱。查一次招生简章和学费标准，再按手上的工作机会算一次账，大概一两个小时。",
+  "benefit": "先看花费。2013 年的国家意见规定，全日制学术学位硕士的学费原则上每年不超过 8000 元。全日制专业学位硕士按原来的收费政策执行，不受这条上限管，常常贵得多。招生计划内的全日制研究生都能领研究生国家助学金，硕士每年不低于 6000 元，具体标准由各地定。再看回报。英国教育部 2020 年发布的研究用全国学籍和纳税记录，跟踪 1990 年代中期到 2000 年代中期本科毕业的人。研究扣掉了家庭背景和本科成绩的差别，看 35 岁时的收入。原文是「we estimate returns of 2% (women) and -2% (men) for masters」：读过硕士的女性比只读本科的多挣约 2%，男性少挣约 2%。专业差别很大。女性读法律、经济、管理类硕士多挣约 20%，读艺术、英语、哲学类的少挣 10% 以上。男性多数专业的硕士回报显著为负，但法律、经济、管理和工科仍明显为正",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "争议。英国以前的研究算出来的硕士回报一直是正的，这项研究的作者认为是自己的数据更细、扣得更干净。作者也承认扣不掉动机和职业偏好这类差别。数据只到 35 岁，用的是二三十年前毕业的人，国内也没找到同样扣掉个人差别的数字，所以只能当方向参考。证据等级因此定 B。算账的办法和本节第 6 条（读书还是打工）一样，把两三年少挣的工资对上往后每年多挣的那一截。有的岗位招聘公告直接写明要硕士，比如高校、科研院所和部分国企，这时候学历门槛本身就是回报，要单独算。",
+  "sources": [
+   {
+    "title": "财政部、国家发展改革委、教育部 (2013). 关于完善研究生教育投入机制的意见（财教〔2013〕19号）",
+    "url": "https://www.gov.cn/gongbao/content/2013/content_2404719.htm"
+   },
+   {
+    "title": "：「原则上，现阶段全日制学术学位研究生学费标准，硕士生每生每年不超过8000元，博士生每生每年不超过1万元。全日制专业学位研究生以及目前已按规定实行收费政策的研究生，暂执行原收费政策」「博士生资助标准不低于每生每年1万元，硕士生资助标准不低于每生每年6000元」；Britton J, Buscha F, Dickson M, van der Erve L, Vignoles A, Walker I, Waltmann B, Zhu …",
+    "url": "https://assets.publishing.service.gov.uk/media/5f609e478fa8f5106d1563cc/PG_LEO_report_FINAL.pdf"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "否",
+   "gain": "大",
+   "metric": "金钱"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-23-24",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/23-%E5%AD%A6%E4%BB%80%E4%B9%88%E6%8A%80%E8%83%BD%E5%88%92%E7%AE%97.md#24-本科毕业要不要接着读硕士先算学费和少挣的两三年工资再看自己读的专业多挣不多挣"
+ },
+ {
+  "id": "23-25",
+  "chapter": 23,
+  "chapterTitle": "学什么技能划算",
+  "chapterShortTitle": "学什么技能划算",
+  "number": 25,
+  "title": "硕士毕业要不要接着读博士：目标岗位明确要博士才读，读之前把心理负担也算进去",
+  "body": "同一项英国研究里，扣掉个人差别后，35 岁时博士比只读本科的女性多挣约 8%，男性反而少挣约 9%。读博的心理负担也重，各国博士生里约四分之一有明显的抑郁症状，约六分之一有明显的焦虑症状。所以只有目标工作非博士不招时，读博才划算。",
+  "cost": "不花钱。去目标单位的招聘公告里查一遍学历要求，再找两三个在读博士聊一次。",
+  "benefit": "本节第 24 条（读硕士）引的英国教育部 2020 年研究，也算了博士。原文是「8% (women) and -9% (men) for PhDs」：扣掉家庭背景和本科成绩的差别后，35 岁时博士比只读本科的女性多挣约 8%，男性少挣约 9%。研究还发现，博士降低了失业和年收入低于 3 万英镑的可能，也降低了年收入超过 4 万英镑的可能。不同学科差别大，数学博士的回报特别低，心理学博士是回报最高的之一。读博期间的心理负担看 2021 年的一篇汇总分析。16 项研究、23469 名博士生里，有明显抑郁症状的合计约 24%（95% CI 18%–31%，可信范围）。9 项研究、15626 名博士生里，有明显焦虑症状的约 17%（12%–23%）。各研究之间差别很大（I² 约 98%）。国内的花费照 2013 年意见：全日制学术学位博士学费原则上每年不超过 1 万元，研究生国家助学金每年不低于 1 万元",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "争议。抑郁焦虑那组数字只是把各国调查的比例合起来，没有和同龄人对比，用的量表也不一样。所以它说明博士生里这类症状常见，说明不了是读博造成的。国内中文研究的汇总发现，博士生和硕士生的心理症状差别不大，但都比全国常模和青年常模高。收入数字的局限和本节第 24 条（读硕士）一样，只能当方向参考。高校教职、科研院所和部分研发岗的招聘公告常写明要博士，想走这条路的，先把目标单位近几年的公告翻一遍。读的过程中情绪低落持续两周以上，先做第 3 节第 18 条（情绪低落时先做的几件事）那几件事，有自杀念头打 12356，见第 1 节第 25 条（抑郁或有自杀念头时打 12356）。",
+  "sources": [
+   {
+    "title": "Britton J, Buscha F, Dickson M, van der Erve L, Vignoles A, Walker I, Waltmann B, Zhu Y (2020). The earnings returns to postgraduate degrees in the UK. Department for Education",
+    "url": "https://assets.publishing.service.gov.uk/media/5f609e478fa8f5106d1563cc/PG_LEO_report_FINAL.pdf"
+   },
+   {
+    "title": "Satinsky EN, Kimura T, Kiang MV, et al. (2021). Systematic review and meta-analysis of depression, anxiety, and suicidal ideation among Ph.D. students. Scientific Reports, 11, 14370",
+    "url": "https://doi.org/10.1038/s41598-021-93687-7"
+   },
+   {
+    "title": "Liu H, Gao Y, Tuerxun N, Cabirou L (2026). More than Depression: Doctoral Students' Mental Health in China: A Systematic Review and Meta-Analysis. Behavioral Sciences, 16, 1355",
+    "url": "https://doi.org/10.3390/bs16081355"
+   },
+   {
+    "title": "财政部、国家发展改革委、教育部 (2013). 关于完善研究生教育投入机制的意见（财教〔2013〕19号）",
+    "url": "https://www.gov.cn/gongbao/content/2013/content_2404719.htm"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "否",
+   "gain": "大",
+   "metric": "金钱"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-23-25",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/23-%E5%AD%A6%E4%BB%80%E4%B9%88%E6%8A%80%E8%83%BD%E5%88%92%E7%AE%97.md#25-硕士毕业要不要接着读博士目标岗位明确要博士才读读之前把心理负担也算进去"
  },
  {
   "id": "24-1",
