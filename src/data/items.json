@@ -151,7 +151,7 @@
   "benefit": "中国疾控中心 2025 年调查了 828 起蘑菇中毒事件，涉及 2165 人，死亡 13 人。病死率 0.6%，指中毒的人里有 0.6% 死亡。2019 到 2024 年每年 276 到 676 起，病死率在 0.87% 到 2.86% 之间。光 2025 年就鉴定出 138 种有毒蘑菇，其中 34 种是国内第一次记录到会引起中毒",
   "evidence": "A",
   "evidenceNote": null,
-  "note": "吃错了就立刻催吐，然后带上剩下的蘑菇或者拍的照片去医院。毒蘑菇中毒分好几种类型，认出是哪一种蘑菇直接决定医生怎么治。每年都有新种类被记录到能毒人，所以「本地人认得清」这个前提本身站不住。银针验毒、和大蒜同煮、虫子吃过就没毒、颜色鲜艳才有毒，这些说法全都不成立。",
+  "note": "吃错了就立刻催吐，然后带上剩下的蘑菇或者拍的照片去医院。毒蘑菇中毒分好几种类型，认出是哪一种蘑菇直接决定医生怎么治。每年都有新种类被记录到能毒人，所以「本地人认得清」这个前提本身站不住。银针验毒、和大蒜同煮、虫子吃过就没毒、颜色鲜艳才有毒，这些说法全都不成立。泡发太久的木耳、银耳和放久的湿米粉是另一种毒，见第 48 条（泡发的木耳）。",
   "sources": [
    {
     "title": "Mushroom Poisoning Outbreaks — China, 2025. China CDC Weekly (2026)：「In 2025, China CDC investigated 828 mushroom poisoning incidents across 27 provincial-level administrative divisions (PLADs), affecting 2,165 individ…",
@@ -254,7 +254,7 @@
   "benefit": "美国预防服务工作组是美国官方给筛查建议的机构。它现在的建议是：对 35 到 70 岁、超重或肥胖的成年人筛查糖尿病前期和 2 型糖尿病，哪怕一点症状都没有。超重指体重指数 ≥25，肥胖指 ≥30。对亚裔美国人，它建议把界线降到体重指数 ≥23，因为同样的体重指数下，亚裔的糖尿病风险更高。中国的行业标准是：体重指数 24.0 到 28.0 之间算超重，≥28.0 算肥胖。这条建议的推荐等级是 B。它还写明：「对血糖正常的成年人，每 3 年筛查一次是合理的做法」",
   "evidence": "A",
   "evidenceNote": null,
-  "note": "查出糖尿病前期不等于就要吃药。相当一部分人光靠改生活方式就能把它扭回去。中国成人里，知道自己有糖尿病的一直是少数，很多人是等到出了并发症才发现",
+  "note": "查出糖尿病前期不等于就要吃药。相当一部分人光靠改生活方式就能把它扭回去。中国成人里，知道自己有糖尿病的一直是少数，很多人是等到出了并发症才发现。查出糖尿病前期以后怎么改、多久复查，见第 2 节第 45 条（查出糖尿病前期）。",
   "sources": [
    {
     "title": "US Preventive Services Task Force (2021). Screening for Prediabetes and Type 2 Diabetes",
@@ -281,17 +281,33 @@
   "chapterTitle": "不要早死",
   "chapterShortTitle": "不要早死",
   "number": 9,
-  "title": "开车不超速、不酒驾",
-  "body": "平均车速每高 1%，撞死人的概率高约 4%。酒精没有「喝一点没事」的安全线。血里的酒精浓度还很低的时候，风险就已经开始往上走了。",
-  "cost": "不花钱。开慢一点，一趟多花几分钟。难的地方是饭局上少喝。",
-  "benefit": "世界卫生组织（WHO）的说法：平均车速每升高 1%，出人命的事故风险升高 4%。酒驾的风险，从很低的血液酒精浓度起就开始上升",
+  "title": "开车不超速、不酒驾，不看手机，困了就停车歇",
+  "body": "平均车速每高 1%，撞死人的概率高约 4%。酒精没有「喝一点没事」的安全线。开车时摆弄手里的手机，出事的概率是专心开车的 3.6 倍，拨号时是 12.2 倍。困得别人都看得出来时，约 3.4 倍。",
+  "cost": "不花钱。开慢一点，一趟多花几分钟。难的地方是饭局上少喝，消息来了忍住不看。开长途每 4 小时至少停下来歇 20 分钟。",
+  "benefit": "世界卫生组织（WHO）的说法：平均车速每升高 1%，出人命的事故风险升高 4%。酒驾的风险，从很低的血液酒精浓度起就开始上升。WHO 还说，开车用手机的司机出事故的概率约是不用的 4 倍，用免提也安全不了多少。美国一项研究在 3500 多名司机的车里装了摄像头，拍下了 905 起伤人或撞坏车的事故。对照的是清醒、专心、没喝酒时的开车片段。手里摆弄手机的各种动作合起来，出事概率是 3.6 倍（OR 3.6）。拨号 12.2 倍，打字发消息 6.1 倍，伸手去拿手机 4.8 倍。刷手机 2.7 倍，手持通话 2.2 倍。录像里能看出明显犯困的，是 3.4 倍（OR 3.4）",
   "evidence": "B",
   "evidenceNote": null,
-  "note": "速度和死亡的那组 1%、4%，是按事故模型推算出来的，不是随机分组的试验。酒驾这边 WHO 只给了方向，没给数字。「喝多少、风险涨多少」这个问题，本节没有核实过原始文献。",
+  "note": "速度和死亡的那组 1%、4%，是按事故模型推算出来的，不是随机分组的试验。酒驾这边 WHO 只给了方向，没给数字。「喝多少、风险涨多少」这个问题，本节没有核实过原始文献。手机和犯困那几个倍数，算的是伤人或撞坏车的事故，不是死亡。对照组是挑过的「最理想的开车状态」，所以倍数比和平常开车相比要偏高一些。法规管的是拿在手里打电话，罚 20 到 200 元、记 3 分。用免提不违法，但 WHO 说它也安全不了多少。连续开车超过 4 小时没歇满 20 分钟，同样违法；开货车记 3 分，开中型以上客车和危险品车记 9 分。犯困了，开窗、喝咖啡都顶不了多久，进服务区停车睡一会儿。",
   "sources": [
    {
-    "title": "WHO (2025). Road traffic injuries fact sheet",
+    "title": "WHO (2025). Road traffic injuries fact sheet：「Drivers using mobile phones are approximately 4 times more likely to be involved in a crash than drivers not using a mobile phone.」「Hands-free phones are not much safer tha…",
     "url": "https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries"
+   },
+   {
+    "title": "Dingus TA 等 (2016). Driver crash risk factors and prevalence evaluation using naturalistic driving data. PNAS 113(10):2636-2641",
+    "url": "https://doi.org/10.1073/pnas.1513271113"
+   },
+   {
+    "title": "中华人民共和国道路交通安全法（2021 年修正）第二十二条第二款：「过度疲劳影响安全驾驶的，不得驾驶机动车」；第九十条：「处警告或者二十元以上二百元以下罚款」",
+    "url": "https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd617ef70519"
+   },
+   {
+    "title": "中华人民共和国道路交通安全法实施条例（2017 年修订）第六十二条：驾驶机动车不得有「（三）拨打接听手持电话、观看电视等妨碍安全驾驶的行为」「（七）连续驾驶机动车超过4小时未停车休息或者停车休息时间少于20分钟」",
+    "url": "https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f40f566c10e23"
+   },
+   {
+    "title": "公安部 (2021). 道路交通安全违法行为记分管理办法（公安部令第 163 号）第十一条：一次记 3 分的有「（六）驾驶机动车有拨打、接听手持电话等妨碍安全驾驶的行为的」「（十四）连续驾驶载货汽车超过4小时未停车休息或者停车休息时间少于20分钟的」；第九条：一次记 9 分的有「（七）连续驾驶中型以上载客汽车、危险物品运输车辆超过4小时未停车休息或者停车休息时间少于20分钟的」",
+    "url": "http://www.gov.cn/gongbao/content/2022/content_5679697.htm"
    }
   ],
   "tags": {
@@ -302,7 +318,7 @@
    "metric": "死亡率"
   },
   "url": "https://eternity4719.github.io/HowToLiveBetter/#e-1-9",
-  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#9-开车不超速不酒驾"
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#9-开车不超速不酒驾不看手机困了就停车歇"
  },
  {
   "id": "1-10",
@@ -683,7 +699,7 @@
   "benefit": "一项三期试验跨 18 个国家，有 1.54 万人。试验把人随机分成两组，一组打疫苗，一组打对照针，平均跟踪 3.2 年。结果疫苗组 6 例、安慰剂组 210 例发生带状疱疹。换算成每千人年是 0.3 对 9.1，每千人年的意思是 1000 个人观察一年里出现的例数。原文写「疫苗对带状疱疹的总体效力为 97.2%（95% CI 93.7–99.0，P<0.001）」。各年龄组的效力在 96.6% 到 97.9% 之间",
   "evidence": "A",
   "evidenceNote": null,
-  "note": "它在性价比上排得靠后，原因是贵。带状疱疹本身很少要命，麻烦在带状疱疹后神经痛，可能疼上几个月到几年。打完疫苗，打针的地方疼、发烧的比例都不低。其中最重的那一档（三级症状）是 17.0% 对 3.2%",
+  "note": "它的性价比不算高，原因是贵。带状疱疹本身很少要命，麻烦在带状疱疹后神经痛，可能疼上几个月到几年。打完疫苗，打针的地方疼、发烧的比例都不低。其中最重的那一档（三级症状）是 17.0% 对 3.2%",
   "sources": [
    {
     "title": "Lal H, Cunningham AL, Godeaux O, et al. (2015). Efficacy of an adjuvanted herpes zoster subunit vaccine in older adults. New England Journal of Medicine, 372(22), 2087-2096",
@@ -741,7 +757,7 @@
   "benefit": "山东临朐那项随机分组的试验跟踪了 22 年。做过幽门螺杆菌根除治疗的人，得胃癌的风险低约一半。原值 OR 0.48，可信范围 95% CI 0.32 到 0.71。死于胃癌的风险低约 38%（HR 0.62，95% CI 0.39 到 0.99）",
   "evidence": "A",
   "evidenceNote": null,
-  "note": "根除以后还可能再感染，所以家里人一起查、一起治。这项试验的人群是胃癌高发区的居民。住在低发区的人，实际拿到的好处会小得多。",
+  "note": "根除以后还可能再感染，所以家里人一起查、一起治。这项试验的人群是胃癌高发区的居民。住在低发区的人，实际拿到的好处会小得多。根除代替不了胃镜，45 岁以上属于高风险的见第 47 条（去做胃镜筛查）。",
   "sources": [
    {
     "title": "Li WQ 等 (2019). Effects of Helicobacter pylori treatment and vitamin and garlic supplementation on gastric cancer incidence and mortality: follow-up of a randomized intervention trial. BMJ",
@@ -1583,6 +1599,331 @@
   "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#43-直接问身边情绪不对的人你有没有想过自杀问了不会让他更想"
  },
  {
+  "id": "1-44",
+  "chapter": 1,
+  "chapterTitle": "不要早死",
+  "chapterShortTitle": "不要早死",
+  "number": 44,
+  "title": "心慌、心跳乱就去做心电图，查出房颤请医生评估吃抗凝药防中风，别拿阿司匹林代替",
+  "body": "房颤是心跳乱成一团，血在心里淤住会结成血块，冲进脑子就是中风。按医生评估吃抗凝药，中风少约六成，死亡少约三成。阿司匹林这类药只少约两成，代替不了。中国高危房颤的人里，只有 6% 在吃抗凝药。",
+  "cost": "做一次心电图几十元。华法林很便宜，但要定期抽血调剂量。新型抗凝药不用常抽血，贵一些。难在没有症状也要天天吃，拔牙、做手术前要先告诉医生在吃抗凝药。",
+  "benefit": "房颤时心房乱颤，血在心房里淤住，容易结成血块。血块冲进脑血管就是中风。最常见的症状是心慌、一活动就累、胸口不舒服，也有约 25% 的人自己说没有症状。做 30 秒以上的单导联心电图，或者 10 秒以上的普通 12 导联心电图，就能确诊。2007 年一篇荟萃分析合并了 29 项随机试验、28044 人。和不吃药比，按剂量调好的华法林让中风少约六成（少 64%，可信范围 49% 到 74%）。阿司匹林这类抗血小板药只少约两成（少 22%，可信范围 6% 到 35%）。两类药直接比，华法林比抗血小板药再少 39%。脑子以外的大出血，每年的绝对增加不超过 0.3%。一篇 Cochrane 综述只看没中过风的 2313 人。华法林让死亡低约三成（OR 0.69，95% CI 0.50 到 0.94）。4 项大试验共 71683 人，比较新型口服抗凝药和华法林。新药让中风和栓塞再少 19%（RR 0.81），死亡少 10%（RR 0.90）。颅内出血少 52%（RR 0.48），但胃肠道出血多 25%（RR 1.25）。阿司匹林代替不了抗凝药。不适合用华法林的 5599 人里，阿哌沙班比阿司匹林让中风和栓塞少 55%（HR 0.45）。大出血每年 1.4% 对 1.2%，看不出差别（HR 1.13，可信范围 0.74 到 1.75）。另一项试验只收 75 岁以上的 973 人。致死致残的中风、颅内出血和动脉栓塞合起来，华法林比阿司匹林少 52%（RR 0.48）。脑子以外的出血每年 1.4% 对 1.6%。中国 2023 年房颤指南用 CHA2DS2-VASc-60 打分。心衰、高血压、糖尿病、血管病、60 到 64 岁、女性各 1 分，65 岁以上、中过风各 2 分。男性 2 分以上、女性 3 分以上，推荐吃口服抗凝药。男性 1 分、女性 2 分的，权衡出血风险和本人意愿后考虑。指南不推荐用抗血小板药预防房颤引起的中风。美国 2023 年指南写明，要不要吃看中风风险，不看房颤是一阵一阵发作还是一直持续。它还写明，出血风险评分不能单独拿来决定不吃，要用来找出能改的出血因素。中国 2014 到 2016 年调查 45 岁以上的人，房颤占 1.8%，约 790 万人。知道自己有房颤的，城市 78.3%，农村只有 35.3%。高危房颤的人里只有 6.0% 在用抗凝药。2020 到 2021 年的全国调查里，查出的房颤有 43.8% 是这次才发现的。以前就确诊的人里，32.1% 在用抗凝药，农村只有 19.8%",
+  "evidence": "A",
+  "evidenceNote": null,
+  "note": "争议在筛查这一侧，查出房颤后吃药这一侧没有争议。没有症状的人要不要专门去查房颤，证据不够。美国预防服务工作组 2022 年的结论是证据不足，判断不了利弊。瑞典请 75 到 76 岁的人做两周心电图，约 7 年后死亡、中风、出血合起来只少 4%，刚够上统计差别。丹麦给 70 到 90 岁的人埋了长期记录心电的小仪器。查出房颤的是 31.8% 对 12.2%，中风却没有少到看得出差别。中国 2023 年指南说，65 岁以上的人看病时，可以考虑顺手摸脉或做心电图。所以有症状的人要去查，65 岁以上的看病时请医生顺便摸一下脉，不必专门买仪器去筛。吃上抗凝药以后，别自己加布洛芬这类止痛药，见第 34 节第 3 条（在吃抗凝药的人吃布洛芬之前先问医生）。药要长期吃，别觉得没事就停，见第 16 节第 1 条（药按医嘱吃满）。高血压也是打分项，见本节第 7 条（量血压）。有房颤的人不必一律戒咖啡，见第 2 节第 26 条（每天喝三到四杯咖啡）。突然嘴歪、一侧没劲，吃没吃药都马上打 120，见第 13 节第 3 条（突然嘴歪、一侧胳膊没劲）。受益人主要是你自己和家里的老人。",
+  "sources": [
+   {
+    "title": "Hart RG, Pearce LA, Aguilar MI. (2007). Meta-analysis: antithrombotic therapy to prevent stroke in patients who have nonvalvular atrial fibrillation. Annals of Internal Medicine, 146(12), 857-867",
+    "url": "https://doi.org/10.7326/0003-4819-146-12-200706190-00007"
+   },
+   {
+    "title": "Aguilar MI, Hart R. (2005). Oral anticoagulants for preventing stroke in patients with non-valvular atrial fibrillation and no previous history of stroke or transient ischemic attacks. Cochrane Database of Systematic R…",
+    "url": "https://doi.org/10.1002/14651858.CD001927.pub2"
+   },
+   {
+    "title": "Ruff CT, Giugliano RP, Braunwald E, et al. (2014). Comparison of the efficacy and safety of new oral anticoagulants with warfarin in patients with atrial fibrillation: a meta-analysis of randomised trials. Lancet, 383(…",
+    "url": "https://doi.org/10.1016/S0140-6736(13)62343-0"
+   },
+   {
+    "title": "Connolly SJ, Eikelboom J, Joyner C, et al. (2011). Apixaban in patients with atrial fibrillation. New England Journal of Medicine, 364(9), 806-817",
+    "url": "https://doi.org/10.1056/NEJMoa1007432"
+   },
+   {
+    "title": "Mant J, Hobbs FD, Fletcher K, et al. (2007). Warfarin versus aspirin for stroke prevention in an elderly community population with atrial fibrillation (the Birmingham Atrial Fibrillation Treatment of the Aged Study, BA…",
+    "url": "https://doi.org/10.1016/S0140-6736(07)61233-1"
+   },
+   {
+    "title": "Ma CS, Wu SL, Liu SW, Han YL, Chinese Society of Cardiology, et al. (2024). Chinese Guidelines for the Diagnosis and Management of Atrial Fibrillation. Journal of Geriatric Cardiology, 21(3), 251-314（中华医学会心血管病学分会等 2023…",
+    "url": "https://doi.org/10.26599/1671-5411.2024.03.009"
+   },
+   {
+    "title": "Joglar JA, Chung MK, Armbruster AL, et al. (2024). 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation, 149(1), e1-e156",
+    "url": "https://doi.org/10.1161/CIR.0000000000001193"
+   },
+   {
+    "title": "Du X, Guo L, Xia S, et al. (2021). Atrial fibrillation prevalence, awareness and management in a nationwide survey of adults in China. Heart",
+    "url": "https://doi.org/10.1136/heartjnl-2020-317915"
+   },
+   {
+    "title": "Shi S, Tang Y, Zhao Q, et al. (2022). Prevalence and risk of atrial fibrillation in China: A national cross-sectional epidemiological study. Lancet Regional Health – Western Pacific, 23, 100439",
+    "url": "https://doi.org/10.1016/j.lanwpc.2022.100439"
+   },
+   {
+    "title": "US Preventive Services Task Force (2022). Screening for Atrial Fibrillation: US Preventive Services Task Force Recommendation Statement. JAMA, 327(4), 360-367",
+    "url": "https://doi.org/10.1001/jama.2021.23732"
+   },
+   {
+    "title": "Svennberg E, Friberg L, Frykman V, et al. (2021). Clinical outcomes in systematic screening for atrial fibrillation (STROKESTOP): a multicentre, parallel group, unmasked, randomised controlled trial. Lancet, 398(10310)…",
+    "url": "https://doi.org/10.1016/S0140-6736(21)01637-8"
+   },
+   {
+    "title": "Svendsen JH, Diederichsen SZ, Højberg S, et al. (2021). Implantable loop recorder detection of atrial fibrillation to prevent stroke (The LOOP Study): a randomised controlled trial. Lancet, 398(10310), 1507-1516",
+    "url": "https://doi.org/10.1016/S0140-6736(21)01698-6"
+   }
+  ],
+  "tags": {
+   "money": "少",
+   "time": "少",
+   "willpower": "些",
+   "gain": "大",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-1-44",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#44-心慌心跳乱就去做心电图查出房颤请医生评估吃抗凝药防中风别拿阿司匹林代替"
+ },
+ {
+  "id": "1-45",
+  "chapter": 1,
+  "chapterTitle": "不要早死",
+  "chapterShortTitle": "不要早死",
+  "number": 45,
+  "title": "成年人查一次丙肝抗体，阳性就再查核酸，确诊了吃 8 到 12 周口服药，绝大多数能治好",
+  "body": "丙肝感染后几十年都可能没有症状，查一次抗体就知道。确诊了吃 8 到 12 周口服药，九成五以上能把病毒清掉。清掉病毒的人，后来死亡风险低约六成，肝癌低约七成。这类药 2019 年进了医保，平均降价八成五以上。",
+  "cost": "抽一管血查丙肝抗体，自费一般几十元，各地价格不同。抗体阳性的再抽一次血查核酸，看病毒还在不在。确诊的去当地丙肝定点医院开药，多数方案每天吃 1 片，吃 8 到 12 周，药费走医保报销。难在没有症状时想不起去查。",
+  "benefit": "丙肝靠血液传播，没有疫苗。世界卫生组织说，慢性丙肝常常几十年没有症状，等出症状时肝已经伤得很重。抗体阳性只说明感染过，要再查核酸才知道病毒还在不在。约 30% 的人感染后不用治，6 个月内自己就清掉了病毒。世界卫生组织说，口服的直接抗病毒药吃 8 到 12 周，几乎所有病人都能治好。给美国预防服务工作组做的证据综述合并了 49 项治疗研究，各基因型的治愈率都在 95% 以上。治愈指停药 12 周后血里查不到病毒。严重不良反应 1.9%，因副作用停药 0.4%。同一篇综述把跟踪记录类研究合起来算，没有分组对照。治愈的人比没治愈的人，总死亡率低约 60%（HR 0.40，95% CI 0.28–0.56，13 项研究）。肝癌低约 71%（HR 0.29，95% CI 0.23–0.38，20 项研究）。法国跟踪了 9895 名慢性丙肝病人，中位 33.4 个月。扣掉年龄、肝纤维化程度、喝酒等因素后，吃药的人总死亡率低约 52%（HR 0.48，95% CI 0.33–0.70）。肝癌低约 34%（HR 0.66，95% CI 0.46–0.93）。美国退伍军人里有 15059 名肝病已到晚期的丙肝病人吃了这类药。平均跟踪约 1.6 年，治愈的人每 100 人跟踪一年死 2.6 人，没治愈的死 12.3 人。扣掉其他因素后死亡风险低约 74%（HR 0.26，95% CI 0.22–0.31）。美国预防服务工作组 2020 年推荐 18 到 79 岁的成年人都查（B 级推荐）。多数人一辈子查一次就够。中国 2022 年版防治指南建议全体成年人筛查抗体，一直有高危风险的定期查，抗体阳性的都查核酸。2006 年全国调查里，1 到 59 岁人群抗体阳性率 0.43%。把多项研究合起来算，一般人群是 0.60%，吸毒人群 48.67%，血液透析人群 6.59%。国家医保局说，谈判前丙肝药的疗程费用多超过 5 万元。2019 年谈判进医保的三种丙肝药，平均降价 85% 以上（美国、法国 / 中国）",
+  "evidence": "A",
+  "evidenceNote": null,
+  "note": "争议：Cochrane 2017 年的综述只认随机分组的试验。它找到的 138 项多是短期试验，判断不了这类药能不能少死人、少得肝病。它认为「治愈」只是血里查不到病毒，和少死人之间的关系还没有被随机试验证实。上面死亡和肝癌的数字都来自跟踪记录。也没有研究直接比较过查和不查。国家方案点名要查的人：准备做手术、输血、内镜、透析的，肝功能化验不明原因异常的。有过静脉吸毒、卖过血浆、多个性伴侣、男男性行为的。艾滋病感染者，丙肝病人的配偶和性伴侣。方案还提出动员 40 岁以上的人去查。指南写明，现在的病人大多在 1993 年以前输过血或卖过血浆。纹身、穿耳洞、共用剃须刀和牙刷也可能传播。拥抱、共用碗筷和水杯一般不传播。治好以后抗体照样是阳性，要看核酸才知道有没有再感染。治好了还能再感染，还在共用针具的人每年至少查一次核酸。怀着孕查出来的，生完、停了哺乳再治，治疗期间要避孕。已经肝硬化的，治好了也要按时查肝癌。不共用针具见本节第 30 条（不和别人共用针具）。乙肝要查的是另一套指标，见本节第 14 条（查乙肝两对半）。艾滋病见本节第 31 条（查一次艾滋病）。指南写明，丙肝加上过量饮酒可能发展成肝衰竭，喝酒见第 2 节第 19 条（少喝或不喝酒）。受益人主要是你自己，也护住你的配偶和性伴侣。",
+  "sources": [
+   {
+    "title": "US Preventive Services Task Force, Owens DK, Davidson KW, et al. (2020). Screening for Hepatitis C Virus Infection in Adolescents and Adults: US Preventive Services Task Force Recommendation Statement. JAMA, 323(10), 9…",
+    "url": "https://doi.org/10.1001/jama.2020.1123"
+   },
+   {
+    "title": "Chou R, Dana T, Fu R, Zakher B, Wagner J, Ramirez S, Grusing S, Jou JH (2020). Screening for Hepatitis C Virus Infection in Adolescents and Adults: Updated Evidence Report and Systematic Review for the US Preventive Se…",
+    "url": "https://doi.org/10.1001/jama.2019.20788"
+   },
+   {
+    "title": "Carrat F, Fontaine H, Dorival C, et al. (2019). Clinical outcomes in patients with chronic hepatitis C after direct-acting antiviral treatment: a prospective cohort study. The Lancet, 393(10179), 1453-1464",
+    "url": "https://doi.org/10.1016/S0140-6736(18)32111-1"
+   },
+   {
+    "title": "Backus LI, Belperio PS, Shahoumian TA, Mole LA (2019). Impact of Sustained Virologic Response with Direct-Acting Antiviral Treatment on Mortality in Patients with Advanced Liver Disease. Hepatology, 69(2), 487-497",
+    "url": "https://doi.org/10.1002/hep.29408"
+   },
+   {
+    "title": "Jakobsen JC, Nielsen EE, Feinberg J, et al. (2017). Direct-acting antivirals for chronic hepatitis C. Cochrane Database of Systematic Reviews, CD012143.pub3 （反方）",
+    "url": "https://doi.org/10.1002/14651858.CD012143.pub3"
+   },
+   {
+    "title": "World Health Organization (2026). Hepatitis C（事实清单，2026-07-28）",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c"
+   },
+   {
+    "title": "中华医学会肝病学分会, 中华医学会感染病学分会 (2022). 丙型肝炎防治指南（2022 年版）. 中华肝脏病杂志, 30(12), 1332-1348",
+    "url": "https://doi.org/10.3760/cma.j.cn501113-20221220-00605"
+   },
+   {
+    "title": "国家卫生健康委办公厅等九部门 (2021). 关于印发消除丙型肝炎公共卫生危害行动工作方案（2021-2030 年）的通知（国卫办疾控函〔2021〕492 号）",
+    "url": "https://www.nhc.gov.cn/jkj/c100062/202109/6bf87bfeb2f0424e8d6efc0425b91699.shtml"
+   },
+   {
+    "title": "国家医疗保障局 (2019). 《关于将 2019 年谈判药品纳入乙类范围的通知》政策解读",
+    "url": "https://www.nhsa.gov.cn/art/2019/11/28/art_53_2057.html"
+   }
+  ],
+  "tags": {
+   "money": "少",
+   "time": "少",
+   "willpower": "否",
+   "gain": "大",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-1-45",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#45-成年人查一次丙肝抗体阳性就再查核酸确诊了吃-8-到-12-周口服药绝大多数能治好"
+ },
+ {
+  "id": "1-46",
+  "chapter": 1,
+  "chapterTitle": "不要早死",
+  "chapterShortTitle": "不要早死",
+  "number": 46,
+  "title": "下化粪池、窨井、污水池、菜窖地窖、发酵罐之前先打开通风，有人倒在里面别跟着下去，打 119 和 120",
+  "body": "化粪池、窨井、菜窖这类地方会积毒气，也会缺氧，人几秒就能倒下。国内这类事故常常是一个人倒下，几个人接连下去救，一起死在里面。国内的统计说，死在里面的人一半以上是去救人的。看见有人倒下，别下去，打 119 和 120。",
+  "cost": "不花钱。下去之前把盖子和通风口全打开，人站在上风处等一阵，要多花些时间。自家化粪池最好交给有设备的清掏队伍。难在有人倒在里面时，忍住不往下跳。",
+  "benefit": "「有限空间」指化粪池、窨井、污水池、地窖、罐子这类封闭或半封闭、不是给人长期待的地方。应急管理部分析了 2013 年以来工贸企业有限空间的较大事故。中毒和窒息占事故起数的 96.8%、死亡人数的 96.9%。害人的主要是硫化氢、一氧化碳、氮气、二氧化碳。没做好防护、盲目施救的事故，占起数的 87.4%、死亡人数的 86.8%。应急管理部 2020 年的安全指导手册说，近 80% 的事故因为盲目施救让伤亡变多。在有限空间里死去的人，超过 50% 是救援的人。2018 年国务院安委办通报了 8 起事故。8 起一开始都只有 1 人遇险，因为盲目施救，每起最后死了 3 到 4 人。2019 年东莞一家纸厂清污水池，3 人吸入硫化氢晕倒。6 人先后下池去救，最后死了 7 人。2020 年焦作一家面制品厂，1 名工人掉进发酵车间的物料罐。其他人盲目施救，一共死了 6 人。美国职业安全卫生研究所调查了 1983 到 1993 年的 70 起有限空间死亡事故，共死 109 人。其中 39 人（36%）是为了救人才进去的。这 39 人里，只有 4 个是警察、消防这类专业救援人员。它 1986 年的警示说，约 60% 的死者是想去救人的人。手册说，硫化氢有臭鸡蛋味，可浓度一高，鼻子就闻不出来了。浓度超过每立方米 1000 毫克，几秒内就能致人死亡。二氧化碳浓度高时，人几秒内就会昏迷倒下。手册要求，现场没有条件自己救的，及时打 119 和 120，「决不允许强行施救」。站在外面把人拉出来，前提是被困的人系着全身式安全带，安全绳连在外面。应急管理部第 13 号令要求工贸企业作业「先通风、再检测、后作业」。监护人员要制止没做好安全措施的盲目施救。安顺市卫健局提示，存放蔬菜的地窖长期封着，蔬菜会耗掉氧气、放出二氧化碳。下窖前要打开所有通风口，通风足够长的时间，腰上系绳，窖上留人（全国 / 美国）",
+  "evidence": "C",
+  "evidenceNote": null,
+  "note": "给 C 是因为这些都是事故统计和安全规定，没有研究算过照做能少死多少人。收益量级定为中，凭的是判断：后果是死亡，常常一死几个，但只落在要下这类地方的人身上。家里常碰到的是清自家化粪池、沼气池，下菜窖、地窖取菜。别靠闻味判断安不安全，闻不到臭味不等于没有硫化氢。打工时被安排下井、下池，没有通风、检测、监护和安全带的，可以拒绝。拒绝的依据见第 19 节第 10 条（没有防护措施的作业可以拒绝）。有人倒在里面，先喊人，打 119 和 120，能做的是在外面打开盖子、往里鼓风。人被拉上来后挪到空气新鲜处，没有呼吸就按压，见第 13 节第 1 条（有人倒地没呼吸）。倒下的是同事、邻居还是陌生人，做法都一样，道理和第 13 节第 25 条（看到有人溺水自己不下水）相同。屋里烧煤的一氧化碳见本节第 3 条（一氧化碳报警器）。受益人主要是你自己，因为想下去救人的往往就是你，其次是一起干活的家人。",
+  "sources": [
+   {
+    "title": "应急管理部 (2023). 《工贸企业有限空间作业安全规定》解读",
+    "url": "https://www.mem.gov.cn/gk/zcjd/202312/t20231212_471584.shtml"
+   },
+   {
+    "title": "应急管理部 (2023). 《工贸企业有限空间作业安全规定》专题新闻发布会",
+    "url": "https://www.mem.gov.cn/xw/xwfbh/2023n12y12rxwfbh/wzsl_4260/202312/t20231212_471598.shtml"
+   },
+   {
+    "title": "应急管理部令第 13 号 (2023). 工贸企业有限空间作业安全规定（第三、十四、十五条）",
+    "url": "https://www.gov.cn/gongbao/2024/issue_11166/202402/content_6931872.html"
+   },
+   {
+    "title": "应急管理部办公厅 (2020). 有限空间作业安全指导手册（第 2.1、5.1、5.3 节及典型事故案例）",
+    "url": "https://www.mem.gov.cn/gk/tzgg/tz/202010/W020201102332723879957.pdf"
+   },
+   {
+    "title": "（通知页",
+    "url": "https://www.mem.gov.cn/gk/tzgg/tz/202010/t20201030_371153.shtml"
+   },
+   {
+    "title": "）；国务院安委会办公室 (2018). 国务院安委办通报 8 起有限空间盲目施救导致伤亡扩大事故",
+    "url": "https://www.mem.gov.cn/xw/bndt/201806/t20180608_229498.shtml"
+   },
+   {
+    "title": "应急管理部 (2021). 应急管理部公布一批有限空间作业生产安全事故典型案例",
+    "url": "https://www.mem.gov.cn/xw/yjglbgzdt/202103/t20210326_382087.shtml"
+   },
+   {
+    "title": "安顺市卫生健康局 (2021). 进入地窖当心二氧化碳中毒",
+    "url": "http://wjj.anshun.gov.cn/wjgz/zsyd/202102/t20210223_66808351.html"
+   },
+   {
+    "title": "NIOSH (1994). Worker Deaths in Confined Spaces: A Summary of NIOSH Surveillance and Investigative Findings (DHHS (NIOSH) Publication No. 94-103), p. 20, 22",
+    "url": "https://www.cdc.gov/niosh/docs/94-103/pdfs/94-103.pdf"
+   },
+   {
+    "title": "（原页面已移入 CDC 存档站，链接为 2023 年 3 月 8 日的网页存档：",
+    "url": "https://web.archive.org/web/20230308204907/https://www.cdc.gov/niosh/docs/94-103/pdfs/94-103.pdf"
+   },
+   {
+    "title": "）；NIOSH (1986). Request for Assistance in Preventing Occupational Fatalities in Confined Spaces (DHHS (NIOSH) Publication No. 86-110)",
+    "url": "https://www.cdc.gov/niosh/docs/86-110/default.html"
+   },
+   {
+    "title": "（原页面已移入 CDC 存档站，链接为 2023 年 6 月 11 日的网页存档：",
+    "url": "https://web.archive.org/web/20230611112004/https://www.cdc.gov/niosh/docs/86-110/default.html"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "些",
+   "gain": "中",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-1-46",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#46-下化粪池窨井污水池菜窖地窖发酵罐之前先打开通风有人倒在里面别跟着下去打-119-和-120"
+ },
+ {
+  "id": "1-47",
+  "chapter": 1,
+  "chapterTitle": "不要早死",
+  "chapterShortTitle": "不要早死",
+  "number": 47,
+  "title": "45 岁以上，住在胃癌食管癌高发地区、有家族史或幽门螺杆菌阳性的，去做胃镜筛查",
+  "body": "45 岁以上、属于胃癌食管癌高风险的人，做过胃镜的，死于这两种癌的概率低约一半。但主动去查的人本来就更注意身体，这个数会偏大。按最严格的办法比，只低约两成，还在误差范围内。不在高风险里的人，指南不建议查。",
+  "cost": "普通胃镜几百元，做无痛胃镜要另加几百元，各地价格不同。要空腹去，前后占半天。选无痛胃镜的，要有人陪着去。难受的地方是管子过喉咙那几分钟。",
+  "benefit": "国家卫健委 2024 年的方案这样定高风险人群。先要年满 45 岁，再满足下面任意一条。一是住在胃癌或食管癌高发的县。胃癌按年龄标化发病率超过每 10 万人 20 例算，食管癌按超过 15 例算。二是父母、子女、兄弟姐妹得过这种癌。三是幽门螺杆菌检测阳性，这一条只算胃癌。四是抽烟、重度饮酒、吃得咸、爱吃腌制食品，食管癌还加上爱吃烫的。五是得过萎缩性胃炎、胃溃疡、胃息肉、巴雷特食管、反流性食管炎这类病。筛查年龄一般在 45 到 74 岁，首选胃镜，原则上每 5 年做一次。2022 年的国家指南明确不建议高风险以外的人做胃癌筛查。中国 6 个高发地区有一项研究，跟踪了 40 到 69 岁的约 63.75 万人。做过一次胃镜的人和没被邀请的人比，死于上消化道癌的风险低约 57%。原值 RR 0.43，可信范围 95% CI 0.40 到 0.47。上消化道癌的发病低约 23%（RR 0.77）。被邀请的人里只有 33.53% 真去做了。把被邀请的人全算上，死亡低约 31%（RR 0.69，95% CI 0.66 到 0.72）。另一项研究在食管癌高发的村子里做，没有随机分组，跟了 10 年。筛查组的食管鳞癌累计死亡是 3.35%，对照组是 5.05%。韩国国家筛查项目里，做过胃镜的人死于胃癌的可能低约 47%。原值 OR 0.53，95% CI 0.51 到 0.56。做钡餐的看不出差别（OR 0.98）。做胃镜的次数越多，风险越低。把亚洲 10 项研究合起来算，做过胃镜的人胃癌死亡低约 40%。原值 RR 0.60，95% CI 0.49 到 0.73。得胃癌的人数没看出变化。中国北方有一项按村随机分组的试验，收了 45 到 69 岁的 3.38 万人，跟了 9 年。分到筛查组的人，食管癌死亡低约 18%（HR 0.82，95% CI 0.53 到 1.26），还在误差范围内。发病低约 19%（HR 0.81，95% CI 0.60 到 1.09），同样不显著。2023 年一篇荟萃分析校正了「主动去查的人本来就更健康」这层偏差。真去做胃镜的人，胃癌死亡低约 48%（RR 0.52，可信范围 0.39 到 0.79）。按整个筛查项目算，只剩 RR 0.94（可信范围 0.71 到 1.28），看不出效果（中国 / 韩国 / 亚洲）",
+  "evidence": "A",
+  "evidenceNote": null,
+  "note": "争议。胃镜降死亡的证据，大多是拿自愿去查的人和不查的人比。去查的人本来就更注意身体，好处会被算大。2023 年那篇荟萃分析评定，这些研究的偏倚风险是中等到严重。食管癌那项按村分组的试验，9 年的死亡差别还在误差范围内。2022 年指南列出的害处有：过度诊断，就是查出一辈子都不会发作的癌；假阳性；漏诊；还有出血、穿孔、心肺意外、吸入性肺炎和感染。受不了普通胃镜的，方案写明可以在麻醉或镇静下做。45 岁以上幽门螺杆菌阳性的，本身就算胃癌高风险。根除见第 23 条（查幽门螺杆菌，阳性就根除），但根除代替不了胃镜，两样都要做。钡餐、单查胃蛋白酶原、肿瘤标志物和 PET 检查，方案都不推荐用来筛查。肿瘤标志物套餐见第 6 节第 7 条（全身 PET-CT 和肿瘤标志物套餐）。查出萎缩性胃炎、肠上皮化生、上皮内瘤变的，复查要更勤，按医生说的来。自己住的县算不算高发区，可以问当地疾控中心或县医院。已经吞咽困难、呕血、黑便的，是去看病，不是筛查，见第 34 节第 6 条（吞咽困难、呕血、黑便就直接去医院）。爱喝烫茶的，见第 2 节第 30 条（热的东西放一放再喝）。受益人主要是你自己，也包括你的父母。",
+  "sources": [
+   {
+    "title": "国家卫生健康委办公厅 (2024). 关于印发食管癌筛查与早诊早治方案（2024年版）和胃癌筛查与早诊早治方案（2024年版）的通知（国卫办医急函〔2024〕200号）",
+    "url": "https://www.nhc.gov.cn/wjw/c100378/202406/7008ffe1c77d4457ac73361be75760c7.shtml"
+   },
+   {
+    "title": "（附件全文转载：广东省疾病预防控制中心",
+    "url": "https://cdcp.gd.gov.cn/jkjy/jkzt/mxfcrxjbfz/content/mpost_4444507.html"
+   },
+   {
+    "title": "）；赫捷, 陈万青, 李兆申, 等 (2022). 中国胃癌筛查与早诊早治指南（2022，北京）. 中国肿瘤, 31(7), 488-527（临床问题 7、13） （同文刊于中华肿瘤杂志, 44(7)",
+    "url": "https://doi.org/10.11735/j.issn.1004-0242.2022.07.A002"
+   },
+   {
+    "title": "634-666",
+    "url": "https://doi.org/10.3760/cma.j.cn112152-20220617-00430"
+   },
+   {
+    "title": "）；Chen R, Liu Y, Song G, et al. (2021). Effectiveness of one-time endoscopic screening programme in prevention of upper gastrointestinal cancer in China: a multicentre population-based cohort study. Gut, 70(2), 251-260",
+    "url": "https://doi.org/10.1136/gutjnl-2019-320200"
+   },
+   {
+    "title": "Wei WQ, Chen ZF, He YT, et al. (2015). Long-Term Follow-Up of a Community Assignment, One-Time Endoscopic Screening Study of Esophageal Cancer in China. Journal of Clinical Oncology, 33(17), 1951-1957",
+    "url": "https://doi.org/10.1200/JCO.2014.58.0423"
+   },
+   {
+    "title": "Jun JK, Choi KS, Lee HY, et al. (2017). Effectiveness of the Korean National Cancer Screening Program in Reducing Gastric Cancer Mortality. Gastroenterology, 152(6), 1319-1328.e7",
+    "url": "https://doi.org/10.1053/j.gastro.2017.01.029"
+   },
+   {
+    "title": "Zhang X, Li M, Chen S, et al. (2018). Endoscopic Screening in Asian Countries Is Associated With Reduced Gastric Cancer Mortality: A Meta-analysis and Systematic Review. Gastroenterology, 155(2), 347-354.e9",
+    "url": "https://doi.org/10.1053/j.gastro.2018.04.026"
+   },
+   {
+    "title": "Liu M, Yang W, Guo C, et al. (2024). Effectiveness of Endoscopic Screening on Esophageal Cancer Incidence and Mortality: A 9-Year Report of the Endoscopic Screening for Esophageal Cancer in China (ESECC) Randomized Tri…",
+    "url": "https://doi.org/10.1200/JCO.23.01284"
+   },
+   {
+    "title": "Hibino M, Hamashima C, Iwata M, Terasawa T. (2023). Radiographic and endoscopic screening to reduce gastric cancer mortality: a systematic review and meta-analysis. The Lancet Regional Health – Western Pacific, 35, 100…",
+    "url": "https://doi.org/10.1016/j.lanwpc.2023.100741"
+   }
+  ],
+  "tags": {
+   "money": "少",
+   "time": "中",
+   "willpower": "否",
+   "gain": "中",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-1-47",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#47-45-岁以上住在胃癌食管癌高发地区有家族史或幽门螺杆菌阳性的去做胃镜筛查"
+ },
+ {
+  "id": "1-48",
+  "chapter": 1,
+  "chapterTitle": "不要早死",
+  "chapterShortTitle": "不要早死",
+  "number": 48,
+  "title": "泡发的木耳、银耳当顿吃完别过夜，河粉、肠粉这类湿米粉买来当天吃，家里不自制酵米面",
+  "body": "泡太久的木耳银耳、放久了的湿米粉、家里自己发酵的玉米面，会长出一种叫米酵菌酸的毒。煮开了也去不掉，也没有解药。全国十一年里报告的这种中毒，发病的人里约三成死了。",
+  "cost": "不花钱。木耳、银耳吃多少泡多少，剩下的倒掉。湿米粉只买当天吃得完的量。难在泡多了舍不得倒，有些人家习惯自己做酸汤子。",
+  "benefit": "全国食源性疾病暴发监测里，2010 到 2020 年共报告米酵菌酸中毒 19 起。发病 146 人，死亡 43 人，病死率 29.5%（指发病的人里有 29.5% 死亡）。按吃的东西分：自家发酵的玉米面制品 9 起，死 33 人。湿米粉 5 起，死 7 人。木耳 3 起，5 人发病，死 3 人。2020 年全国食物中毒报告死亡 143 人，米酵菌酸占 12 人。排在它前面的是毒蘑菇（80 人）和甲醇（14 人）。北京市市场监管局的提示写明：米酵菌酸 100℃ 煮沸、高压锅蒸煮都破坏不了，目前没有特效解毒药。广东 2018 年起要求湿米粉小包装密封、标清保质期。前后对比，全省每年的病例数从平均 6.25 例降到 0.5 例",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "2020 年 10 月，黑龙江鸡西市鸡东县几家人早饭吃了自制的酸汤子。吃了的 9 个人全部死亡。这种毒看不出来，广东几起湿米粉中毒，吃的人都没觉得粉的味道和颜色有异常。木耳冷水泡一两个小时就够，泡发时间各地写法不一，湖南写最长不超过 8 小时。耳片发黏、没弹性、有酸臭味，或者泡发水浑浊，整盆倒掉。不买新鲜银耳。吃完出现呕吐、头晕、浑身没劲，马上催吐，带上剩下的食物去医院。一起吃的人没症状也要去查。野生蘑菇见第 5 条（不吃野生蘑菇）。",
+  "sources": [
+   {
+    "title": "Zhang H 等 (2023). Epidemiology of foodborne bongkrekic acid poisoning outbreaks in China, 2010 to 2020. PLoS One 18(1):e0279957：「From 2010–2020, a total of 19 BA poisoning outbreaks were reported to the China National …",
+    "url": "https://doi.org/10.1371/journal.pone.0279957"
+   },
+   {
+    "title": "Li H 等 (2021). Characteristics of Settings and Etiologic Agents of Foodborne Disease Outbreaks — China, 2020. China CDC Weekly 3(42):889-893",
+    "url": "https://doi.org/10.46234/ccdcw2021.219"
+   },
+   {
+    "title": "Yuan Y 等 (2020). A Foodborne Bongkrekic Acid Poisoning Incident — Heilongjiang Province, 2020. China CDC Weekly 2(51):975-978：「In October 2020, 9 persons in Jidong County, Heilongjiang Province died after consuming a h…",
+    "url": "https://doi.org/10.46234/ccdcw2020.264"
+   },
+   {
+    "title": "Liu Z 等 (2026). Controlling the Storage Time Is an Effective Measure to Reduce the Risk of Bongkrekic Acid Poisoning Caused by Wet Rice Noodles. Foodborne Pathog Dis 23(7):468-472（2025-05-12 网络首发）：「The annual average n…",
+    "url": "https://doi.org/10.1089/fpd.2024.0131"
+   },
+   {
+    "title": "北京市市场监督管理局 (2023). 关于米酵菌酸引发食物中毒的风险提示：「米酵菌酸对热稳定，经100℃煮沸和高压烹饪也不能被破坏」「目前，尚无米酵菌酸特效解毒药物」「隔天泡制的银耳、木耳及其加工制品不能食用」",
+    "url": "https://scjgj.beijing.gov.cn/hdjl/xfts/202309/t20230904_3248296.html"
+   },
+   {
+    "title": "湖南省市场监督管理局 (2025). 【食安科普】米酵菌酸致命警告：「银耳冷水（室温）浸泡3~4小时，木耳冷水浸泡1~2小时，中途换水1~2次，去除微生物，泡发时长最长均不能超过8小时」「吃了同样食物的人，不管有没有症状，都应送医院检查」",
+    "url": "https://amr.hunan.gov.cn/amr/xxx/xtdtx/202506/t20250630_33725786.html"
+   },
+   {
+    "title": "贵州省市场监督管理局 (2023). 关于谨防米酵菌酸中毒的食品安全警示：「选购银耳、木耳等相关食品时，要选择正规渠道，泡发不可过夜，应及时加工食用」",
+    "url": "https://amr.guizhou.gov.cn/zfxxgk/fdzdgknr/tzgg_5626971/tzgg_5626972/202307/t20230728_81318622.html"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "些",
+   "gain": "大",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-1-48",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#48-泡发的木耳银耳当顿吃完别过夜河粉肠粉这类湿米粉买来当天吃家里不自制酵米面"
+ },
+ {
   "id": "2-1",
   "chapter": 2,
   "chapterTitle": "不要慢慢死",
@@ -1991,13 +2332,13 @@
   "chapterTitle": "不要慢慢死",
   "chapterShortTitle": "不要慢慢死",
   "number": 12,
-  "title": "有高血压、高血脂就按医嘱规律吃药，别自行停",
-  "body": "血压每降 10 mmHg，死亡的概率降约 13%，中风降约 27%。他汀把低密度胆固醇降 1 个单位，死亡的概率降约一成。按时吃药的人比经常漏吃的人，死亡的概率低三成到四成半。",
-  "cost": "集采的降压药和他汀每月几元到几十元。每天吃一次，花不了多少时间。难在要一直吃下去，不能觉得没事了就停。",
-  "benefit": "把多项随机分组试验合起来算：收缩压每降 10 mmHg，死亡风险低约 13%（RR 0.87）。收缩压就是血压里的高压。主要心血管事件低约 20%（RR 0.80）。卒中低约 27%（RR 0.73）。心衰低约 28%（RR 0.72）。吃他汀让低密度脂蛋白胆固醇（LDL）往下降。LDL 每降 1.0 mmol/L，死亡风险低约 10%（RR 0.90）。同样这一降，主要血管事件低约 22%（RR 0.78）。另外把多项跟踪研究合起来算，只记录、不分组。按医嘱吃到 ≥80% 的人，死亡风险比经常漏吃的人低。他汀这一项低约 45%（RR 0.55）。降压药这一项低约 29%（RR 0.71）。",
+  "title": "成年后定期查血脂，40 岁前每 2 到 5 年一次、40 岁起每年一次；有高血压、高血脂就按医嘱规律吃药，别自行停",
+  "body": "血压每降 10 mmHg，死亡的概率降约 13%，中风降约 27%。他汀把低密度胆固醇降 1 个单位，死亡的概率降约一成。按时吃药的人比经常漏吃的人，死亡的概率低三成到四成半。血脂 40 岁前每 2 到 5 年查一次，40 岁起每年查。",
+  "cost": "集采的降压药和他汀每月几元到几十元。每天吃一次，花不了多少时间。难在要一直吃下去，不能觉得没事了就停。查血脂要抽一管血。65 岁以上每年有一次免费体检，里面就有血脂，见第 6 节第 18 条（通用体检套餐）。",
+  "benefit": "把多项随机分组试验合起来算：收缩压每降 10 mmHg，死亡风险低约 13%（RR 0.87）。收缩压就是血压里的高压。主要心血管事件低约 20%（RR 0.80）。卒中低约 27%（RR 0.73）。心衰低约 28%（RR 0.72）。吃他汀让低密度脂蛋白胆固醇（LDL）往下降。LDL 每降 1.0 mmol/L，死亡风险低约 10%（RR 0.90）。同样这一降，主要血管事件低约 22%（RR 0.78）。另外把多项跟踪研究合起来算，只记录、不分组。按医嘱吃到 ≥80% 的人，死亡风险比经常漏吃的人低。他汀这一项低约 45%（RR 0.55）。降压药这一项低约 29%（RR 0.71）。多久查一次血脂，按健康中国行动的建议：40 岁以下血脂正常的人每 2 到 5 年查一次。40 岁及以上的人至少每年查一次。心脑血管病高危的人每 6 个月查一次。2023 年版中国血脂管理指南对 40 岁前后的写法相同，高危的人改成按个人需要查。",
   "evidence": "A",
   "evidenceNote": null,
-  "note": "只有医生判断该吃药的人才照这个做，健康人不用吃。「坚持吃药」那组数字来自跟踪记录，能坚持吃药的人本身也更自律，所以会把好处说大。前面两组随机分组试验的数字更可靠。本节没有单独列控制血糖这一条：把血糖压得更低对总死亡率的好处，证据不像血压、血脂那样一致。",
+  "note": "只有医生判断该吃药的人才照这个做，健康人不用吃。查血脂多久一次是官方给的建议，没有试验比过几年查一次最好。家里有人得了家族性高胆固醇血症（天生胆固醇特别高的遗传病），他的一级、二级亲属都要去查血脂。孩子也有该查的情况：父母总胆固醇 ≥6.2 mmol/L，或者一级、二级亲属里有男性 55 岁前、女性 65 岁前得过心梗、中风或猝死的。「坚持吃药」那组数字来自跟踪记录，能坚持吃药的人本身也更自律，所以会把好处说大。前面两组随机分组试验的数字更可靠。本节没有单独列控制血糖这一条：把血糖压得更低对总死亡率的好处，证据不像血压、血脂那样一致。",
   "sources": [
    {
     "title": "Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet",
@@ -2010,6 +2351,18 @@
    {
     "title": "Chowdhury R 等 (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. European Heart Journal",
     "url": "https://doi.org/10.1093/eurheartj/eht295"
+   },
+   {
+    "title": "健康中国行动推进委员会 (2019). 健康中国行动（2019—2030年），（十一）心脑血管疾病防治行动（湖南省卫生健康委员会转载）",
+    "url": "https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html"
+   },
+   {
+    "title": "Joint Committee on the Chinese Guidelines for Lipid Management (2023). 中国血脂管理指南（2023 年）. 中华心血管病杂志, 51(3), 221-255",
+    "url": "https://doi.org/10.3760/cma.j.cn112148-20230119-00038"
+   },
+   {
+    "title": "Li JJ 等 (2023). 2023 Chinese guideline for lipid management. Frontiers in Pharmacology, 14, 1190934（上一份指南的英文版，中文原文未取得，相关内容按英文版核对）",
+    "url": "https://doi.org/10.3389/fphar.2023.1190934"
    }
   ],
   "tags": {
@@ -2020,7 +2373,7 @@
    "metric": "死亡率"
   },
   "url": "https://eternity4719.github.io/HowToLiveBetter/#e-2-12",
-  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/02-%E4%B8%8D%E8%A6%81%E6%85%A2%E6%85%A2%E6%AD%BB.md#12-有高血压高血脂就按医嘱规律吃药别自行停"
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/02-%E4%B8%8D%E8%A6%81%E6%85%A2%E6%85%A2%E6%AD%BB.md#12-成年后定期查血脂40-岁前每-2-到-5-年一次40-岁起每年一次有高血压高血脂就按医嘱规律吃药别自行停"
  },
  {
   "id": "2-13",
@@ -2957,7 +3310,7 @@
   "benefit": "黄曲霉毒素是国际癌症研究机构定的 1 类致癌物（确定能让人得癌），主要是肝癌。广州一项研究测了 2010 到 2022 年小作坊自榨花生油里的黄曲霉毒素 B1。中位数 1.29 μg/kg，中间一半样品在 0.12 到 6.58 之间。当地出台小作坊管理条例后，油里的毒素马上降了 2.865 μg/kg，之后每年再降 2.593。常吃自榨油那片居民的肝功能异常比例随之下降（PR 0.650，95% CI 0.469–0.902，可信范围），低约 35%。广西一项跟踪 1611 名孕妇的研究里，81.7% 吃自榨花生油。吃的人孩子低出生体重的风险高约九成（aOR 1.9，1.1–3.2），早产高约八成（aOR 1.8，1.1–3.0）。",
   "evidence": "B",
   "evidenceNote": null,
-  "note": "两项研究都只是跟踪记录、没有分组对照。广州那项的终点是肝功能化验，不是肝癌和死亡。自榨油的毒素中位数其实低于国标对花生油的限量 20 μg/kg，风险来自长年吃和个别高的批次。国标限量对所有花生油都适用，但预包装油要过生产许可和出厂检验，小作坊按各省的管理办法管，抽检少得多。本条受益人主要是你和一起吃饭的家人。",
+  "note": "两项研究都只是跟踪记录、没有分组对照。广州那项的终点是肝功能化验，不是肝癌和死亡。自榨油的毒素中位数其实低于国标对花生油的限量 20 μg/kg，风险来自长年吃和个别高的批次。国标限量对所有花生油都适用，但预包装油要过生产许可和出厂检验，小作坊按各省的管理办法管，抽检少得多。家里囤的花生、玉米、坚果发了霉怎么处理，见本节第 46 条（发了霉整包扔掉）。本条受益人主要是你和一起吃饭的家人。",
   "sources": [
    {
     "title": "Lei J, Li Y, Wang Y, 等 (2024). The impact of small food workshops management regulations on aflatoxin B1 in home-made peanut oil and the liver function of high-consumption area residents: an interrupted time series stu…",
@@ -3169,6 +3522,197 @@
   },
   "url": "https://eternity4719.github.io/HowToLiveBetter/#e-2-44",
   "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/02-%E4%B8%8D%E8%A6%81%E6%85%A2%E6%85%A2%E6%AD%BB.md#44-本来就想养狗的把每天遛狗算进走路量别为了长寿专门去养狗"
+ },
+ {
+  "id": "2-45",
+  "chapter": 2,
+  "chapterTitle": "不要慢慢死",
+  "chapterShortTitle": "不要慢慢死",
+  "number": 45,
+  "title": "查出糖尿病前期（血糖偏高、还没到糖尿病），就靠少吃、减重、多动把糖尿病往后推，每半年复查一次血糖",
+  "body": "血糖偏高、还没到糖尿病的人，少吃、多动、减掉一点体重，得糖尿病的风险能低三到六成。中国大庆的试验跟了 30 年，这么做的人死亡的概率低约四分之一，平均多活约一年半。但美国和芬兰的同类试验没看出死亡率有差别。",
+  "cost": "不花钱，少吃还能省一点。每周快走这类中等强度活动至少 150 分钟，摊到每天二十来分钟。每天比原来少吃 400 到 500 千卡。难在要一直坚持，体重减下来以后还要维持住。每半年抽一次血复查，空腹血糖十几元。",
+  "benefit": "大庆研究是在黑龙江大庆做的随机分组试验，按诊所分组。577 名糖耐量受损的成年人分进对照组，或者三种干预组：只管饮食、只加运动、两样都做。干预做了 6 年。6 年里得糖尿病的累计比例，对照组是 67.7%。饮食组 43.8%，运动组 41.1%，饮食加运动组 46.0%。扣掉体重指数和空腹血糖的差别后，三组得糖尿病的风险分别低约 31%、46%、42%。偏瘦和超重的人（体重指数以 25 为界）降幅差不多。跟到 23 年，干预组心血管死亡低约 41%（HR 0.59，95% CI 0.36–0.96，可信范围）。总死亡低约 29%（HR 0.71，0.51–0.99）。得糖尿病的低约 45%（HR 0.55，0.40–0.76）。跟到 30 年，干预组得糖尿病的时间中位推迟 3.96 年。心血管事件低约 26%（HR 0.74，0.59–0.92）。眼底、肾、神经的严重小血管并发症低约 35%（HR 0.65，0.45–0.95）。心血管死亡低约 33%（HR 0.67，0.48–0.94）。总死亡低约 26%（HR 0.74，0.61–0.89）。平均多活 1.44 年（0.20–2.68）。美国 DPP 试验把 3234 名血糖偏高的人随机分组。生活方式组的目标是体重至少减 7%，每周活动至少 150 分钟。平均跟了 2.8 年，生活方式组得糖尿病的风险比安慰剂组低 58%（95% CI 48%–66%）。吃二甲双胍的组低 31%（17%–43%），比改生活方式差。跟到平均 15 年，生活方式组仍低 27%（HR 0.73，0.65–0.83），但差距逐年缩小。跟到中位 21 年，生活方式组的总死亡率和安慰剂组没有差别（HR 1.02，0.81–1.28）。心血管死亡也没有差别（HR 1.18，0.77–1.81）。芬兰 DPS 试验随机分了 522 名超重的糖耐量受损者。4 年累计得糖尿病的，干预组 11%，对照组 23%。试验期间风险低 58%。停掉一对一辅导后接着跟，到中位 7 年时仍低 43%。平均跟到 10.6 年，总死亡没有明显差别（HR 0.57，0.21–1.58）。心血管病也没有（HR 1.04，0.72–1.51）。健康中国行动给的界线是：空腹血糖 6.1 到 7.0 mmol/L（不含 7.0）就算糖尿病前期。喝糖水后 2 小时血糖 7.8 到 11.1 mmol/L（不含 11.1）也算。它建议超重或肥胖的人把体重指数降到或接近 24，或者体重至少减 7%。每天饮食总热量至少少 400 到 500 千卡，中等强度活动每周至少 150 分钟。每半年查一次空腹血糖或餐后 2 小时血糖。",
+  "evidence": "A",
+  "evidenceNote": null,
+  "note": "争议。三项试验都看到得糖尿病的人少了、得的时间晚了。但能不能少死，只有大庆试验看到了。大庆只有 577 人，作者自己也说人数少，因为试验本来是为看糖尿病设计的。美国 DPP 试验结束后，每个人都被请去上了改过的生活方式课，安慰剂组也不例外。芬兰试验的作者写明，人数可能不够，看不出小的差别。所以推迟糖尿病是确定的，延寿还没有定论。美国和芬兰试验里的人平均体重指数在 30 以上。大庆的人平均只有 25.7，只劝体重指数超过 25 的人减重，体重也没减多少，作者认为主要靠改吃法和多动。所以不胖的人也照样要改吃法、多动。先停掉甜饮料，见本节第 7 条（不喝含糖饮料）。运动量够不够，对照本节第 11 条（每天走到 7000–8000 步）。体重减到哪儿，对照本节第 32 条（把 BMI 控制在 20–25）。怎么查出来，见第 1 节第 8 条（查一次空腹血糖）。二甲双胍也能少得糖尿病，但效果不如改生活方式，要不要吃由医生定。收益量级按大庆总死亡率低约 26% 定为大，但美国和芬兰的试验没有重复出来。本条受益人主要是你自己。",
+  "sources": [
+   {
+    "title": "Pan XR, Li GW, Hu YH, 等 (1997). Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance. The Da Qing IGT and Diabetes Study. Diabetes Care, 20(4), 537-544",
+    "url": "https://doi.org/10.2337/diacare.20.4.537"
+   },
+   {
+    "title": "Li G, Zhang P, Wang J, 等 (2014). Cardiovascular mortality, all-cause mortality, and diabetes incidence after lifestyle intervention for people with impaired glucose tolerance in the Da Qing Diabetes Prevention Study: a…",
+    "url": "https://doi.org/10.1016/S2213-8587(14)70057-9"
+   },
+   {
+    "title": "Gong Q, Zhang P, Wang J, 等 (2019). Morbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome Study. Lancet Diabetes & En…",
+    "url": "https://doi.org/10.1016/S2213-8587(19)30093-2"
+   },
+   {
+    "title": "Knowler WC, Barrett-Connor E, Fowler SE, 等 (2002). Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. NEJM, 346(6), 393-403",
+    "url": "https://doi.org/10.1056/NEJMoa012512"
+   },
+   {
+    "title": "Diabetes Prevention Program Research Group (2015). Long-term effects of lifestyle intervention or metformin on diabetes development and microvascular complications over 15-year follow-up: the Diabetes Prevention Progra…",
+    "url": "https://doi.org/10.1016/S2213-8587(15)00291-0"
+   },
+   {
+    "title": "Lee CG, Heckman-Stoddard B, Dabelea D, 等 (2021). Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care, 44(12), 27…",
+    "url": "https://doi.org/10.2337/dc21-1046"
+   },
+   {
+    "title": "Tuomilehto J, Lindström J, Eriksson JG, 等 (2001). Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. NEJM, 344(18), 1343-1350",
+    "url": "https://doi.org/10.1056/NEJM200105033441801"
+   },
+   {
+    "title": "Lindström J, Ilanne-Parikka P, Peltonen M, 等 (2006). Sustained reduction in the incidence of type 2 diabetes by lifestyle intervention: follow-up of the Finnish Diabetes Prevention Study. Lancet, 368(9548), 1673-1679",
+    "url": "https://doi.org/10.1016/S0140-6736(06)69701-8"
+   },
+   {
+    "title": "Uusitupa M, Peltonen M, Lindström J, 等 (2009). Ten-year mortality and cardiovascular morbidity in the Finnish Diabetes Prevention Study—secondary analysis of the randomized trial. PLoS ONE, 4(5), e5656 （争议方）",
+    "url": "https://doi.org/10.1371/journal.pone.0005656"
+   },
+   {
+    "title": "健康中国行动推进委员会 (2019). 健康中国行动（2019—2030年），（十四）糖尿病防治行动（湖南省卫生健康委员会转载）",
+    "url": "https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "多",
+   "willpower": "是",
+   "gain": "大",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-2-45",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/02-%E4%B8%8D%E8%A6%81%E6%85%A2%E6%85%A2%E6%AD%BB.md#45-查出糖尿病前期血糖偏高还没到糖尿病就靠少吃减重多动把糖尿病往后推每半年复查一次血糖"
+ },
+ {
+  "id": "2-46",
+  "chapter": 2,
+  "chapterTitle": "不要慢慢死",
+  "chapterShortTitle": "不要慢慢死",
+  "number": 46,
+  "title": "家里的花生、玉米、坚果和米面发了霉，整包扔掉，别挑掉霉的吃剩下的；嚼到发苦的坚果马上吐掉",
+  "body": "花生、玉米、坚果发霉会长黄曲霉毒素，它能让人得肝癌。上海一项研究里，尿里查出这种毒素的人，得肝癌的风险约是查不出的 3.4 倍。带乙肝病毒又查出毒素的人，约是两样都没有的 59.4 倍。这种毒素炒、煮、油炸都很难去掉。",
+  "cost": "扔掉一包花生、坚果或一袋米面，几块到几十块钱。平时把粮食和坚果放在干燥、通风、阴凉的地方，买小包装，少囤货。难在舍不得扔，尤其是说服家里的长辈。",
+  "benefit": "黄曲霉毒素是国际癌症研究机构定的 1 类致癌物（确定能让人得癌），致的是肝癌。它在花生和玉米里最常见，炒、煮、油炸这类一般烹调都很难破坏它。上海一项研究从 1986 年起跟踪 18244 名中年男性，入组时各留一次尿。跟踪约 7 万人年，查出 55 例肝癌。拿其中 50 例和同一批人里 267 名没得病的人比。尿里查出黄曲霉毒素的，肝癌风险约为 3.4 倍（RR 3.4，95% CI 1.1–10.0，可信范围）。乙肝表面抗原阳性的约为 7.3 倍（2.2–24.4）。两样都有的约为 59.4 倍（16.6–212.0），比的是两样都没有的人。同一批人早期的分析里，扣掉乙肝、吸烟、喝酒和文化程度，查出毒素的约为 3.8 倍（1.2–12.2）。江苏启东过去是肝癌高发区，1980 年代起当地主粮从玉米换成了大米。居民血里的毒素标志物中位数从 1989 年的 19.3 pg/mg 降到 2009 年查不出（低于 0.5）。35 岁以下居民的肝癌死亡率，1960 年代到 1980 年代出生的几批人降了一半以上。这几批人都出生在新生儿普遍打乙肝疫苗之前。作者估算，肝癌死亡的下降里约 65% 可以归到少吃了毒素，其中 83% 落在乙肝感染者身上。按全球的估算，乙肝携带者吃进同样多的毒素，致癌能力约为不带病毒的人的 30 倍。中国每年有一批肝癌可以归到这种毒素。其中约 5300 到 14400 例出在乙肝携带者身上，约 1990 到 4430 例出在不带病毒的人身上。",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "收益栏的数字算的是「吃进多少毒素」和肝癌的关系，没有研究直接测过「家里扔掉发霉的东西」能少多少肝癌。上海那项只在入组时验过一次尿。按饮食问卷估算的吃进量和肝癌看不出关联，说明问卷估不准，要靠化验。启东居民的毒素标志物到 2009 年已经查不出。眼下多数家庭吃进的量很可能远低于当年，这是判断，没有全国数字。所以收益量级没按 3.4 倍机械定为大，凭判断定为中。为什么整包扔：广东省卫健委提醒，坚果花生打开一闻有变味就整袋扔掉，免得抖开后霉菌孢子飞散。有霉味的食物要坚决丢弃。美国农业部的食品安全指南写明，花生酱、豆类和坚果发了霉一律扔掉，煮好的米饭面条、面包也是。只有卷心菜、胡萝卜这类水分少的硬蔬菜，可以切掉霉点周围至少 2.5 厘米再吃。农业农村部提醒，霉变的花生吃进嘴里会有苦味和异味，误吃了要马上吐出来并漱口。乙肝携带者的风险叠加最明显，没查过乙肝的见第 1 节第 14 条（查乙肝两对半）。买油的事见本节第 40 条（不买小作坊散装自榨花生油），本条管家里囤的粮食和坚果。泡发木耳、酵米面那类急性中毒是另一种毒素，见第 1 节第 48 条（家里不自制酵米面）。没发霉的坚果照样值得吃，见本节第 22 条（每天吃一小把坚果）。本条受益人主要是你和一起吃饭的家人。",
+  "sources": [
+   {
+    "title": "IARC (2012). Aflatoxins. In: Chemical Agents and Related Occupations. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol 100F, 225-248",
+    "url": "https://publications.iarc.fr/123"
+   },
+   {
+    "title": "Qian GS, Ross RK, Yu MC, 等 (1994). A follow-up study of urinary markers of aflatoxin exposure and liver cancer risk in Shanghai, People's Republic of China. Cancer Epidemiology, Biomarkers & Prevention, 3(1), 3-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8118382/"
+   },
+   {
+    "title": "Ross RK, Yuan JM, Yu MC, 等 (1992). Urinary aflatoxin biomarkers and risk of hepatocellular carcinoma. Lancet, 339(8799), 943-946",
+    "url": "https://doi.org/10.1016/0140-6736(92)91528-G"
+   },
+   {
+    "title": "Chen JG, Egner PA, Ng D, 等 (2013). Reduced aflatoxin exposure presages decline in liver cancer mortality in an endemic region of China. Cancer Prevention Research, 6(10), 1038-1045",
+    "url": "https://doi.org/10.1158/1940-6207.CAPR-13-0168"
+   },
+   {
+    "title": "Liu Y, Wu F (2010). Global burden of aflatoxin-induced hepatocellular carcinoma: a risk assessment. Environmental Health Perspectives, 118(6), 818-824",
+    "url": "https://doi.org/10.1289/ehp.0901388"
+   },
+   {
+    "title": "农业农村部油料产品质量安全风险评估实验室（武汉）(2020). 农产品及食品中黄曲霉毒素污染识别与预防. 农业农村部农产品质量安全监管司科普天地",
+    "url": "https://jgs.moa.gov.cn/kptd/202011/t20201110_6356097.htm"
+   },
+   {
+    "title": "广东省卫生健康委员会 (2015). 勿吃霉变食物 谨防黄曲霉素中毒",
+    "url": "https://wsjkw.gd.gov.cn/gkmlpt/content/2/2129/post_2129622.html"
+   },
+   {
+    "title": "USDA Food Safety and Inspection Service. Molds on Food: Are They Dangerous?",
+    "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/molds-food-are-they-dangerous"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "些",
+   "gain": "中",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-2-46",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/02-%E4%B8%8D%E8%A6%81%E6%85%A2%E6%85%A2%E6%AD%BB.md#46-家里的花生玉米坚果和米面发了霉整包扔掉别挑掉霉的吃剩下的嚼到发苦的坚果马上吐掉"
+ },
+ {
+  "id": "2-47",
+  "chapter": 2,
+  "chapterTitle": "不要慢慢死",
+  "chapterShortTitle": "不要慢慢死",
+  "number": 47,
+  "title": "别吃淡水鱼虾做的鱼生、生鱼片、鱼生粥和醉虾，常吃过的去医院查一次肝吸虫，查出来按医嘱吃吡喹酮",
+  "body": "生吃淡水鱼虾会染上肝吸虫。它是确定能致癌的寄生虫，染上的人得胆管癌的机会约是没染上的四到五倍。醋、酒、芥末都杀不死它。染上了吃两天药，九成以上能治好。",
+  "cost": "不吃鱼生不花钱，难在改掉多年的口味，聚餐时还得推掉。常吃过的去医院验一次大便查虫卵，费用各地不同。查出来按医生开的剂量吃吡喹酮，一般吃 1 到 2 天。",
+  "benefit": "华支睾吸虫俗称肝吸虫。世界卫生组织下属的国际癌症研究机构 2009 年开会评定，长期感染它对人致癌。它会导致胆管癌，列为 1 类。1994 年那次评定只给了 2A 类（很可能致癌）。把已发表的研究合起来算，感染肝吸虫的人得胆管癌的风险约为 4.8 倍。原文是相对风险 4.8（95% CI 2.8–8.4，可信范围）。这个数把东南亚的另一种肝吸虫也算在内。同一篇里，乙肝是 2.6 倍，丙肝是 1.8 倍，肝吸虫是最强的一项。另一篇汇总了 36 项研究。病例对照研究里，胆管癌约为 4.37 倍（OR 4.37，2.84–6.72）。跟踪研究里约为 10.43 倍（RR 10.43，2.90–37.47）。胆管炎、胆囊炎约为 7.80 倍（RR 7.80）。胆结石约为 2.42 倍（RR 2.42）。肝细胞癌约为 4.69 倍（OR 4.69）。肝硬化没看出显著关联。感染越重，这些病越多。2014 到 2015 年全国调查，感染率 0.47%，约 600 万人。感染率超过 1% 的是广东、广西、黑龙江、吉林四省。用 2016 到 2021 年的监测数据推算，2020 年全国约 0.67%，约 946 万人。其中广西约 8.92%，广东约 2.99%。国家疾控局等 15 个部门 2024 年出了防治方案。方案以 2018 到 2022 年监测点平均感染率为基线。广西 8.75%，吉林 4.38%，黑龙江 3.16%，广东 2.95%。国家食品安全风险评估中心 2026 年提示：酒、醋、芥末等调味料无法有效杀灭肝吸虫。冷冻要在零下 20℃ 以下连续冻至少 7 天。加热要让食物中心到 70℃ 以上，持续 10 分钟以上。国际癌症研究机构也写明，腌过、熏过的淡水鱼一样会传染。治疗看 2022 年一篇汇总，共 26 项试验、3340 人。世界卫生组织推荐的吡喹酮用法是按体重每次 25 毫克每公斤，一天 3 次，吃 2 天。对华支睾吸虫的预测治愈率 98.5%（85.4%–99.9%）。",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "上面的风险数字都来自病例对照和跟踪记录，没有分组对照。也没有研究直接比较过「查了再治」能不能少得胆管癌。胆管癌本来少见，所以倍数虽高，落到每个人头上多出的风险不大。证据等级因此给 B。约 4.8 倍比的是染上和没染上的人，不是这条做法能少多少病，所以收益量级凭判断定为中，和本节第 46 条（发了霉整包扔掉）的定法一样。广东疾控说，肝吸虫在人体里能活 20 到 30 年。轻的常常没有症状，所以常吃鱼生的人别等不舒服才查。验大便找虫卵是确诊办法，B 超、CT、抽血只能辅助。吡喹酮要由医生按体重和感染轻重定剂量。寄生虫病所写明，在有囊虫病的地方用大剂量之前要先问清病史。治好了接着吃鱼生，还会再染上。切生鱼的刀和砧板要和熟食分开。海鱼刺身里常见的是异尖线虫这类别的寄生虫，香港食物安全中心建议买持牌店的，老人、孩子、孕妇别吃生鱼。孩子染上会影响长身体。乙肝、丙肝同样会伤肝致癌，见第 1 节第 14 条（查乙肝两对半）和第 1 节第 45 条（查一次丙肝抗体）。本条受益人主要是你自己和一起吃饭的家人。",
+  "sources": [
+   {
+    "title": "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans (2012). Opisthorchis viverrini and Clonorchis sinensis. In: Biological Agents. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol…",
+    "url": "https://publications.iarc.who.int/119"
+   },
+   {
+    "title": "Shin HR, Oh JK, Masuyer E, 等 (2010). Epidemiology of cholangiocarcinoma: an update focusing on risk factors. Cancer Science, 101(3), 579-585",
+    "url": "https://doi.org/10.1111/j.1349-7006.2009.01458.x"
+   },
+   {
+    "title": "Xia J, Jiang SC, Peng HJ (2015). Association between liver fluke infection and hepatobiliary pathological changes: a systematic review and meta-analysis. PLoS ONE, 10(7), e0132673",
+    "url": "https://doi.org/10.1371/journal.pone.0132673"
+   },
+   {
+    "title": "Qian MB, Chen J, Bergquist R, 等 (2019). Neglected tropical diseases in the People's Republic of China: progress towards elimination. Infectious Diseases of Poverty, 8, 86",
+    "url": "https://doi.org/10.1186/s40249-019-0599-4"
+   },
+   {
+    "title": "Qian MB, Huang JL, Wang L, 等 (2025). Clonorchiasis in China: geospatial modeling of the population infected and at risk, based on national surveillance. Journal of Infection, 91(1), 106528",
+    "url": "https://doi.org/10.1016/j.jinf.2025.106528"
+   },
+   {
+    "title": "国家疾控局等 15 部门 (2024). 关于印发全国包虫病等重点寄生虫病综合防治实施方案（2024—2030 年）的通知，附表 7",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202405/content_6950309.htm"
+   },
+   {
+    "title": "国家食品安全风险评估中心 (2026). 关于慎食淡水生鲜食品预防肝吸虫病的风险提示（重庆市疾病预防控制中心转载）",
+    "url": "https://www.cqcdc.org/index.php?a=shows&catid=179&id=3861"
+   },
+   {
+    "title": "Qian MB, Patel C, Palmeirim MS, 等 (2022). Efficacy of drugs against clonorchiasis and opisthorchiasis: a systematic review and network meta-analysis. The Lancet Microbe, 3(8), e616-e624",
+    "url": "https://doi.org/10.1016/S2666-5247(22)00026-X"
+   },
+   {
+    "title": "中国疾病预防控制中心寄生虫病预防控制所 (2020). 华支睾吸虫病（肝吸虫病）防治知识（广东省疾病预防控制中心转载）",
+    "url": "https://cdcp.gd.gov.cn/jkjy/jkzt/jscbfz/content/post_3439516.html"
+   },
+   {
+    "title": "广东省疾病预防控制中心 (2023). 吃鱼生没余生？警惕潜伏在鱼生中的“凶手”肝吸虫！",
+    "url": "https://cdcp.gd.gov.cn/jkjy/jkts/content/post_4274108.html"
+   },
+   {
+    "title": "香港食物安全中心. 淡水鱼刺身的食物安全",
+    "url": "https://www.cfs.gov.hk/sc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_148_01.html"
+   }
+  ],
+  "tags": {
+   "money": "少",
+   "time": "少",
+   "willpower": "些",
+   "gain": "中",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-2-47",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/02-%E4%B8%8D%E8%A6%81%E6%85%A2%E6%85%A2%E6%AD%BB.md#47-别吃淡水鱼虾做的鱼生生鱼片鱼生粥和醉虾常吃过的去医院查一次肝吸虫查出来按医嘱吃吡喹酮"
  },
  {
   "id": "3-1",
@@ -3829,12 +4373,12 @@
   "chapterShortTitle": "不要浪费精力",
   "number": 21,
   "title": "觉得「所有人都看见我出丑了」的时候，把这个估计除以二",
-  "body": "穿一件尴尬的 T 恤走进有人的房间，穿的人以为将近一半人认得出衣服上印的是谁，实际不到四分之一。穿自己觉得体面的 T 恤，估计的人数是实际的六倍。人聊完天，也普遍低估对方有多喜欢自己。所以觉得「所有人都记住我出丑了」时，砍一半仍然偏高。",
+  "body": "穿尴尬的 T 恤进屋，以为将近一半人认得出衣服上印的是谁，实际不到四分之一。换成体面的 T 恤也一样高估。小组讨论完，人也以为自己说错的话别人记得更清楚。聊完天，人还普遍低估对方有多喜欢自己。所以觉得「所有人都记住我出丑了」时，砍一半仍然偏高。",
   "cost": "不花钱。只是在紧张的时候多问自己一句：他们真的看见了吗。",
-  "benefit": "实验一：让参与者穿上印有 Barry Manilow 头像的 T 恤，走进有其他参与者的房间。穿的人平均估计 46% 的旁观者能正确指出衣服上的人是谁。旁观者实际正确率 23%，估计值恰为实际值的两倍。逐场把估计值减去实际值，平均高估 23 个百分点（95% CI 9–38，可信范围）。剔除只有两名和三名旁观者的那两场之后，为 27 个百分点（11–43）。实验二：改穿参与者自选的、自认为正面的 T 恤。平均估计 48%，旁观者实际正确率 8%，为六倍。另一系列研究有三种场景：陌生人配对交谈、大学新生室友、成人工作坊。结果是人们系统性低估交谈对象对自己的喜欢程度，也低估对方对这次交谈的享受程度。作者称之为「喜欢差」。不同长度的交谈中都存在，在新生室友之间持续数月。",
+  "benefit": "实验一：让参与者穿上印有 Barry Manilow 头像的 T 恤，走进有其他参与者的房间。穿的人平均估计 46% 的旁观者能正确指出衣服上的人是谁。旁观者实际正确率 23%，估计值恰为实际值的两倍。逐场把估计值减去实际值，平均高估 23 个百分点（95% CI 9–38，可信范围）。剔除只有两名和三名旁观者的那两场之后，为 27 个百分点（11–43）。实验二：改穿参与者自选的、自认为正面的 T 恤。平均估计 48%，旁观者实际正确率 8%，为六倍。作者在脚注里说，两次实验穿的人估计得几乎一样（48% 和 46%），差在旁观者的正确率（8% 和 23%）。作者怀疑主要原因是实验二给旁观者的问卷更费神，不是体面的衣服更容易被高估。实验三：本科生分成 3 到 7 人的小组，讨论一个指定话题 20 分钟，再一起写一份政策建议。讨论刚结束，每人分开估计组里其他人会怎么给大家排名，名次数字越小越靠前。在「说错话的多少」上，自己估计的名次平均 2.30，别人实际给的名次 2.96，差 −0.66（p < .01）。所以人们以为自己说错的话在别人眼里更显眼。「可能冒犯人的话」一项也一样（2.35 对 2.90，p < .01），「会被别人挑剔的话」差得小一些（2.61 对 2.82，p < .05）。另一系列研究有三种场景：陌生人配对交谈、大学新生室友、成人工作坊。结果是人们系统性低估交谈对象对自己的喜欢程度，也低估对方对这次交谈的享受程度。作者称之为「喜欢差」。不同长度的交谈中都存在，在新生室友之间持续数月。",
   "evidence": "B",
   "evidenceNote": null,
-  "note": "定 B 的理由：都是人数不多的实验室与校园研究，场景是穿衣服和跟陌生人聊天。搬到「被同事议论」「在会上说错话」上，没有直接证据。这些数字只说明高估的方向和大致倍数，没法当系数套。别人的看法也不是都不重要。真正在评价你的场合，比如面试、答辩、考核、体检报告，评价是实打实的，该准备就准备。要打折的只是日常里那种「所有人都在看我」的感觉，那部分要对付的是你自己的估计偏差。",
+  "note": "定 B 的理由：都是人数不多的实验室与校园研究，场景是穿衣服、跟陌生人或室友聊天，以及学生小组讨论，讨论刚结束时就问。搬到「被同事议论」「开会说错话过几天还有没有人记得」上，没有直接证据。这些数字只说明高估的方向和大致倍数，没法当系数套。别人的看法也不是都不重要。真正在评价你的场合，比如面试、答辩、考核、体检报告，评价是实打实的，该准备就准备。要打折的只是日常里那种「所有人都在看我」的感觉，那部分要对付的是你自己的估计偏差。",
   "sources": [
    {
     "title": "Gilovich T, Medvec VH, Savitsky K (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2…",
@@ -6386,12 +6930,12 @@
   "chapterShortTitle": "反面清单",
   "number": 3,
   "title": "不要为了长寿给不缺维生素 D 的人补维生素 D",
-  "body": "本来就不缺维 D 的人补上 5 年，得癌症、得心血管病和死亡的人数，都和不补的人一样。查出来确实缺的人、有骨质疏松的人、长期晒不到太阳的人不在这条里面，他们按医生说的补。",
+  "body": "本来就不缺维 D 的人补上 5 年，得癌症、得心血管病和死亡的人数，都和不补的人一样。很少出门、晒不到太阳的成人，可以每天补 400 IU，一天别超过 2000 IU，吃得更多骨头反而变差、摔跤更多。光觉得乏力不能算成缺维 D，累了几周说不清原因就去看医生。",
   "cost": "一天约 0.2 到 0.5 元，一年 100 到 200 元。钱不算多，真正的代价是以为自己已经做了预防。",
-  "benefit": "VITAL 试验找了 25,871 人，每天吃 2000 IU，跟踪了 5.3 年（中位数）。癌症、心脏血管的毛病和死亡都没看出差别。会扩散的那类癌 HR 0.96（HR 是风险比，1 就是两边一个样；95% CI 0.88–1.06 是可信范围）。主要心血管事件 HR 0.97（0.85–1.12）。全因死亡 HR 0.99（0.87–1.12）。D-Health 试验找了 21,315 名 60 岁以上的澳大利亚人。他们每月吃 60,000 IU，跟踪 5 年。这一项也没看出差别，全因死亡 HR 1.04（0.93–1.18）。死亡的比例是 5.3% 对 5.1%。它看起来划算，是因为有些研究只跟踪记录、不做任何干预，发现维 D 水平低的人死得多，这被误读成了「补上就管用」",
+  "benefit": "VITAL 试验找了 25,871 人，每天吃 2000 IU，跟踪了 5.3 年（中位数）。癌症、心脏血管的毛病和死亡都没看出差别。会扩散的那类癌 HR 0.96（HR 是风险比，1 就是两边一个样；95% CI 0.88–1.06 是可信范围）。主要心血管事件 HR 0.97（0.85–1.12）。全因死亡 HR 0.99（0.87–1.12）。D-Health 试验找了 21,315 名 60 岁以上的澳大利亚人。他们每月吃 60,000 IU，跟踪 5 年。这一项也没看出差别，全因死亡 HR 1.04（0.93–1.18）。死亡的比例是 5.3% 对 5.1%。它看起来划算，是因为有些研究只跟踪记录、不做任何干预，发现维 D 水平低的人死得多，这被误读成了「补上就管用」。很少出门的人另有一套建议。英国卫生部建议，很少出门、住养老院、出门时衣服遮住大部分皮肤的成人，全年每天补 10 微克维 D。NHS 写明 1 微克等于 40 IU，所以 10 微克就是 400 IU。我国卫生行业标准给 18 到 64 岁成人的推荐量是每天 10 微克，65 岁以上是 15 微克。同一份标准给的可耐受最高摄入量是每天 50 微克（2000 IU），因为吃多了会让血钙过高。NHS 给成人的上限宽一些，是 100 微克（4000 IU）。乏力的原因很多，NHS 列的有睡不够、压力和抑郁、缺铁性贫血、糖尿病、甲亢、睡眠呼吸暂停。它建议累了几周说不清原因、或者累到影响日常生活，就去看医生。补得更多也没有更好。VITAL 另外算了骨折，每天 2000 IU 的人和不补的人一样（HR 0.98，0.89–1.08）。VITAL 还看了抑郁，对象是其中 18353 名 50 岁以上、当时没有抑郁的人。补的人每 1000 人每年 12.9 例抑郁或复发，不补的人 13.3 例，没有差别（HR 0.97，0.87–1.09）。情绪评分也没有差别。作者写明，结果不支持成人靠补维 D 防抑郁。加拿大一项试验找了 311 名没有骨质疏松的 55 到 70 岁健康人，分三组每天吃 400、4000、10000 IU，吃了 3 年。剂量越大，手腕那根桡骨的骨密度掉得越多，三组分别降了 1.2%、2.4% 和 3.5%。骨头的抗压强度没看出差别。作者的结论是，这不支持大剂量补维 D 对骨头有好处。瑞士一项试验找了 200 名 70 岁以上、摔过跤的老人，每月吃 2.4 万 IU 或 6 万 IU，吃了一年。6 万 IU 那组腿脚功能没有变好，一年里摔过跤的人反而更多（66.9% 对 47.9%）。澳大利亚一项试验找了 2256 名 70 岁以上的女性，每年秋冬一次吃 50 万 IU。她们摔跤的次数高约 15%（RR 1.15，1.02–1.30），骨折高约 26%（RR 1.26，1.00–1.59）",
   "evidence": "A",
   "evidenceNote": null,
-  "note": "争议：这两项试验都没有特意去招真正缺维生素 D 的人，所以结论只管「本来就不缺的人」。查出确实缺的人、有骨质疏松的人、长期晒不到太阳的人、婴幼儿，还是按医生说的补。这里只看了总死亡和癌症、心脏血管这几件事，别的没看",
+  "note": "争议：VITAL 和 D-Health 都没有特意去招真正缺维生素 D 的人，所以结论只管「本来就不缺的人」。查出确实缺的人、有骨质疏松的人、婴幼儿，还是按医生说的补。严重缺乏也不是非打针不可。2016 年佝偻病全球共识推荐口服，因为口服比肌肉注射补得更快。一项试验找了 61 个得了佝偻病的孩子，一次打针 60 万 IU 和每周口服 6 万 IU、连吃 10 周，12 周后化验和拍片都没有差别。按医生开的量吃完要复查，还是补不上来，再让医生查是不是吸收出了问题。晒不到太阳的人每天补 400 IU，防的是缺乏。卫生行业标准写明，缺维 D 会得佝偻病、骨质软化症和骨质疏松症。这不说明它能防癌、防心脏病，也不说明它能治乏力。医生给你开了别的剂量的，照医生说的吃。已经有抑郁的人补了有没有用，说法不一。2023 年一篇合并 41 项试验的分析看到抑郁评分有小幅下降，但各项研究结果差得很远，作者给的证据质量是最低一档。2024 年一篇按时长拆开看，跟到一年以上的试验就看不出效果了。有抑郁先去精神科或心理科，别拿维 D 代替治疗。这里看了总死亡、癌症、心脏血管、骨头、摔跤和抑郁，别的没看",
   "sources": [
    {
     "title": "Manson JE et al. (2019). Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. NEJM",
@@ -6400,6 +6944,54 @@
    {
     "title": "Neale RE et al. (2022). The D-Health Trial: a randomised controlled trial of the effect of vitamin D on mortality. Lancet Diabetes Endocrinol",
     "url": "https://doi.org/10.1016/S2213-8587(21)00345-4"
+   },
+   {
+    "title": "NHS. Vitamin D",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/"
+   },
+   {
+    "title": "NHS. Tiredness and fatigue",
+    "url": "https://www.nhs.uk/symptoms/tiredness-and-fatigue/"
+   },
+   {
+    "title": "国家卫生健康委员会. WS/T 578.4—2018 中国居民膳食营养素参考摄入量 第4部分：脂溶性维生素，表1",
+    "url": "https://www.nhc.gov.cn/wjw/yingyang/201805/3dcd74635d8e40bcb5d834d3b2f66964/files/1739783549670_23371.pdf"
+   },
+   {
+    "title": "LeBoff MS et al. (2022). Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults. NEJM",
+    "url": "https://doi.org/10.1056/NEJMoa2202106"
+   },
+   {
+    "title": "Burt LA et al. (2019). Effect of High-Dose Vitamin D Supplementation on Volumetric Bone Density and Bone Strength: A Randomized Clinical Trial. JAMA",
+    "url": "https://doi.org/10.1001/jama.2019.11889"
+   },
+   {
+    "title": "Bischoff-Ferrari HA et al. (2016). Monthly High-Dose Vitamin D Treatment for the Prevention of Functional Decline: A Randomized Clinical Trial. JAMA Intern Med",
+    "url": "https://doi.org/10.1001/jamainternmed.2015.7148"
+   },
+   {
+    "title": "Sanders KM et al. (2010). Annual high-dose oral vitamin D and falls and fractures in older women: a randomized controlled trial. JAMA",
+    "url": "https://doi.org/10.1001/jama.2010.594"
+   },
+   {
+    "title": "Munns CF et al. (2016). Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. J Clin Endocrinol Metab",
+    "url": "https://doi.org/10.1210/jc.2015-2175"
+   },
+   {
+    "title": "Mondal K et al. (2014). A Randomized controlled trial on safety and efficacy of single intramuscular versus staggered oral dose of 600 000IU Vitamin D in treatment of nutritional rickets. J Trop Pediatr",
+    "url": "https://doi.org/10.1093/tropej/fmt105"
+   },
+   {
+    "title": "Okereke OI et al. (2020). Effect of Long-term Vitamin D3 Supplementation vs Placebo on Risk of Depression or Clinically Relevant Depressive Symptoms and on Change in Mood Scores: A Randomized Clinical Trial. JAMA",
+    "url": "https://doi.org/10.1001/jama.2020.10224"
+   },
+   {
+    "title": "Mikola T et al. (2023). The effect of vitamin D supplementation on depressive symptoms in adults: A systematic review and meta-analysis of randomized controlled trials. Crit Rev Food Sci Nutr",
+    "url": "https://doi.org/10.1080/10408398.2022.2096560"
+   },
+   {
+    "title": "Ghaemi S et al. (2024). The effect of vitamin D supplementation on depression: a systematic review and dose-response meta-analysis of randomized controlled trials. Psychol Med",
+    "url": "https://doi.org/10.1017/s0033291724001697"
    }
   ],
   "tags": {
@@ -16313,7 +16905,7 @@
   "benefit": "一项为期 5 年、随机分成两组的对照试验，对象是 199 名第一次得钙结石、又查不出原因的患者（也叫特发性钙结石）。一组每天至少喝 2 升水，另一组不做任何干预。5 年里复发的，多喝水那组 12/99（12.1%），不干预那组 27/100（27.0%），P=0.008。P 值越小，越说明两组的差别不是碰巧。平均隔多久复发：38.7±13.2 个月对 25.1±16.4 个月，P=0.016。一开始测的 24 小时尿量，结石患者明显低于没结石的人：男性是 1,057±238 mL 对 1,401±562 mL（P<0.0001），女性是 990±230 mL 对 1,239±440 mL（P<0.001）。NICE 指南 NG118 第 1.8.1 条建议，成人每天喝 2.5 到 3 升水，儿童青少年按年龄喝 1 到 2 升。水里加点鲜柠檬汁，别喝碳酸饮料，成人每天盐不超过 6 克",
   "evidence": "A",
   "evidenceNote": null,
-  "note": "复发少了大约 55%，又不花钱，按本书的排序规则这是本节性价比最高的一条。要盯的是 24 小时尿量，目标是 2 到 2.5 升以上，不是看喝进去多少。出汗多的人、在高温环境里干活的人，得喝得更多。那项试验做的是第一次发作的特发性钙结石患者。结石成分不止一种，尿酸结石、感染性结石、胱氨酸结石各有各的对策。复发过的人值得做一次结石成分分析和 24 小时尿检，再定要不要加药。别为了防结石把钙戒掉，见第 6 节第 21 条。发作时腰腹绞痛得厉害要去医院，不是靠多喝水冲下去的。不疼的血尿另有要查的东西，见第 1 节第 27 条",
+  "note": "复发少了大约 55%，又不花钱，按本书算性价比的办法，这是本节性价比最高的一条。要盯的是 24 小时尿量，目标是 2 到 2.5 升以上，不是看喝进去多少。出汗多的人、在高温环境里干活的人，得喝得更多。那项试验做的是第一次发作的特发性钙结石患者。结石成分不止一种，尿酸结石、感染性结石、胱氨酸结石各有各的对策。复发过的人值得做一次结石成分分析和 24 小时尿检，再定要不要加药。别为了防结石把钙戒掉，见第 6 节第 21 条。发作时腰腹绞痛得厉害要去医院，不是靠多喝水冲下去的。不疼的血尿另有要查的东西，见第 1 节第 27 条",
   "sources": [
    {
     "title": "Borghi L, Meschi T, Amato F, Briganti A, Novarini A, Giannini A (1996). Urinary volume, water and recurrences in idiopathic calcium nephrolithiasis: a 5-year randomized prospective study. The Journal of Urology, 155(3)…",
@@ -16346,7 +16938,7 @@
   "benefit": "一项随机分成两组的对照试验，517 名过去 12 个月内发作过的成人。一组由护士主导，给患者讲清楚病是怎么回事，再按指标把尿酸调到达标。另一组照常找全科医生看。2 年时血尿酸降到 <360 µmol/L（6 mg/dL）的比例，95% 对 30%。达标的可能性是常规组的 3.18 倍（RR 3.18，95% CI 2.42–4.18，这个区间是数字的可信范围），P<0.0001。第 2 年的发作频率、痛风石、生活质量这几项次要指标，也都优于常规组。每多换来一年算上生活质量折算的寿命（质量调整生命年），花费 £5,066。同一试验还做了随访研究，438 人发了问卷，收回 82%。两组都自己报告了过去 12 个月的发作次数。达标组的中位数是 0 次（中间一半人落在 0–0 次）。常规组是 1 次（0–3），P<0.001。括号里的这个范围叫四分位距。仍在吃降尿酸药的比例，达标组是常规组的 1.19 倍（校正后 RR 1.19，1.09–1.30）。美国风湿病学会 2020 年痛风指南强烈推荐三种人启动降尿酸治疗：皮下长了痛风石的、影像检查看到痛风把骨头啃出缺损的、每年发作 ≥2 次的。做法是持续监测血尿酸，照着结果调剂量直到达标，目标 <6 mg/dL。首选别嘌醇，3 期及以上慢性肾病的人也是首选它，起始剂量 ≤100 mg/日。启动时同时给抗炎的预防用药，至少吃 3 到 6 个月。同一指南还引用了一组病例观察。这些患者长期控制良好之后停了药，停药后血尿酸仍保持 <7 mg/dL。他们当中，5 年跟踪期内一次都没发作的只有 13%（27/211）。饮食方面，限酒或戒酒的人，血尿酸比不限的人低 1.6 mg/dL，一份啤酒使血尿酸升高 0.16 mg/dL。健康饮食、地中海饮食、DASH 饮食的效果更小。首选哪种降尿酸药有分歧。美国风湿病学会指南强烈推荐别嘌醇作为首选，理由是剂量用够时有效、耐受好、安全、便宜。它还有条件地建议：吃非布司他的人如果有心血管病史，或新出了心血管事件，有别的药可换就换掉。这条推荐和 FDA 给非布司他加的黑框警告一致。依据之一是 CARES 试验，6190 名合并心血管病的痛风病人随机吃非布司他或别嘌醇。非布司他组的全因死亡风险是别嘌醇组的 1.22 倍（HR 1.22，95% CI 1.01–1.47，高约 22%）。心血管死亡是 1.34 倍（1.03–1.73，高约 34%）。欧洲的 FAST 试验结论不同。它纳入 6128 名 60 岁以上、有心血管危险因素的病人，非布司他的主要心血管事件不比别嘌醇多（HR 0.85，0.70–1.03）。死亡人数是非布司他组 7.2%、别嘌醇组 8.6%。吃促进尿酸从肾排出的药的人，美国风湿病学会有条件地不建议碱化尿液，因为没有证据说明有效，证据确定性很低。它同时要求叮嘱这些人多喝水，已知有肾结石或 3 期及以上慢性肾病的人不该用这类药",
   "evidence": "A",
   "evidenceNote": null,
-  "note": "争议：用哪种药降尿酸，各国指南不一样。美国指南首选别嘌醇，有心血管病的人能换就别吃非布司他，但欧洲 FAST 试验没看到非布司他更危险。国内还能买到苯溴马隆，它是促进尿酸排出的药。中华医学会的指南（2019 版和 2024 更新版）对选药和碱化尿液单独给了推荐。吃苯溴马隆要不要加碳酸氢钠碱化尿液，美国指南认为没有证据，按你的医生的意见办，多喝水不能省。**汉族人用别嘌醇之前值得先查 HLA-B\\*5801。它是一种天生的、管免疫反应的基因型号，查一次结果终身不变。带着这个基因的人，在汉族、韩国、泰国人里占 7.4%，白人和西班牙裔只有 0.7%。亚裔和非裔用别嘌醇之后发生别嘌醇超敏综合征的风险是白人的 3 倍，这个病严重时皮肤会大面积剥脱，能要命。美国风湿病学会 2020 年痛风指南对这两类人建议，用药前可以考虑先查一下。刚开始降尿酸反而更容易诱发发作**，所以指南明确要求头 3 到 6 个月同时吃一种抗炎的预防药。「吃了降尿酸药反而更疼，所以停了」是这件事最常见的失败方式。疼起来该做的是按医嘱加抗炎药，不是停降尿酸药。达标值各家写法不同：<6 mg/dL 约合 360 µmol/L，中国的化验单多用 µmol/L。体检查出尿酸高但从没发作过是另一回事，见第 6 节第 19 条。含糖饮料和酒见第 2 节第 7、19 条（不喝含糖饮料、少喝或不喝酒）",
+  "note": "争议：用哪种药降尿酸，各国指南不一样。美国指南首选别嘌醇，有心血管病的人能换就别吃非布司他，但欧洲 FAST 试验没看到非布司他更危险。国内还能买到苯溴马隆，它是促进尿酸排出的药。中华医学会的指南（2019 版和 2024 更新版）对选药和碱化尿液单独给了推荐。吃苯溴马隆要不要加碳酸氢钠碱化尿液，美国指南认为没有证据，按你的医生的意见办，多喝水不能省。**汉族人用别嘌醇之前值得先查 HLA-B\\*5801。它是一种天生的、管免疫反应的基因型号，查一次结果终身不变。带着这个基因的人，在汉族、韩国、泰国人里占 7.4%，白人和西班牙裔只有 0.7%。亚裔和非裔用别嘌醇之后发生别嘌醇超敏综合征的风险是白人的 3 倍，这个病严重时皮肤会大面积剥脱，能要命。美国风湿病学会 2020 年痛风指南对这两类人建议，用药前可以考虑先查一下。刚开始降尿酸反而更容易诱发发作**，所以指南明确要求头 3 到 6 个月同时吃一种抗炎的预防药。「吃了降尿酸药反而更疼，所以停了」是这件事最常见的失败方式。疼起来该做的是按医嘱加抗炎药，不是停降尿酸药。达标值各家写法不同：<6 mg/dL 约合 360 µmol/L，中国的化验单多用 µmol/L。体检查出尿酸高但从没发作过是另一回事，见第 6 节第 19 条。含糖饮料和酒见第 2 节第 7、19 条（不喝含糖饮料、少喝或不喝酒）。一顿吃下大量肉和海鲜、喝酒会诱发发作，见第 10 条（吃烧烤、聚餐时别一顿吃下大量肉和海鲜）",
   "sources": [
    {
     "title": "Doherty M, Jenkins W, Richardson H, et al. (2018). Efficacy and cost-effectiveness of nurse-led care involving education and engagement of patients and a treat-to-target urate-lowering strategy versus usual care for go…",
@@ -16382,6 +16974,51 @@
   },
   "url": "https://eternity4719.github.io/HowToLiveBetter/#e-16-9",
   "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/16-%E5%BE%97%E4%BA%86%E6%85%A2%E6%80%A7%E7%97%85%E4%B9%8B%E5%90%8E%E6%80%8E%E4%B9%88%E6%B4%BB.md#9-确诊痛风就长期吃降尿酸药把血尿酸压到-360-µmoll-以下并一直维持"
+ },
+ {
+  "id": "16-10",
+  "chapter": 16,
+  "chapterTitle": "得了慢性病之后怎么活",
+  "chapterShortTitle": "得了慢性病之后怎么活",
+  "number": 10,
+  "title": "得过痛风的，吃烧烤、聚餐时别一顿吃下大量肉和海鲜，酒也要少喝",
+  "body": "得过痛风的人，前两天吃进的嘌呤最多时，发作的可能是吃得最少时的近 5 倍，吃着降尿酸药也一样。前一天喝了两到四杯酒，发作的可能高约一半，啤酒、白酒、葡萄酒都算。",
+  "cost": "不花钱。吃烧烤、聚餐时少点肉串和海鲜，少喝酒。难在饭桌上管住自己。",
+  "benefit": "一项病例交叉研究，拿每个病人发作前的两天和自己没发作的两天比，633 名痛风病人在网上跟踪 1 年。嘌呤是食物里的一种成分，在体内会变成尿酸。把两天吃进的嘌呤总量从少到多分成五档，和最少那档比，后四档发作的可能分别是 1.17、1.38、2.21、4.76 倍（OR，趋势 P<0.001）。只算动物来源的嘌呤，是 1.42、1.34、1.77、2.41 倍。只算植物来源的，是 1.12、0.99、1.32、1.39 倍。按性别、喝不喝酒、吃不吃利尿药、别嘌醇、消炎止痛药、秋水仙碱分开看，结果都一样。同一批研究者的另一项研究看了 724 名痛风病人发作前 24 小时喝的酒。和没喝的比，喝 1 杯以上到 2 杯的是 1.36 倍（95% CI 1.00–1.88，可信范围），2 杯以上到 4 杯的是 1.51 倍（1.09–2.09）。葡萄酒、啤酒、烈酒各自都和发作有关。没得过痛风的人看另一项跟踪研究：美国 47150 名男性跟踪 12 年，只记录、不分组。肉吃得最多的五分之一，比最少的五分之一得痛风的风险高约 41%（RR 1.41，1.07–1.86）。海鲜高约 51%（1.51，1.17–1.95）。奶制品吃得最多的反而低约 44%（0.56，0.42–0.74）。嘌呤多的蔬菜和蛋白质总量看不出关系。同一批人里，每天多喝一瓶 12 盎司（约 355 毫升）啤酒，风险高约 49%（1.49，1.32–1.70）。烈酒每天一杯高约 15%（1.15，1.04–1.28）。葡萄酒看不出统计上的差别（1.04，0.88–1.22）",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "主要写给已经发作过的人。没得过痛风的人，吃什么对尿酸的影响比一般人想的小。美国 16760 名没有痛风的白人成年人里，饮食习惯能解释的血尿酸差别不超过 0.3%，常见的基因差别能解释 23.9%。所以身边有人吃烧烤喝啤酒吃出了痛风，饮食是诱因之一，体质占得更多。要紧的是吃下去的肉、海鲜和酒的量，和烤不烤无关，凉菜海鲜配啤酒一样。三项都是观察性研究，发作时吃了什么是病人自己在网上报的，对象都是美国人，中国人的数据没找到。奶制品那个数也只是跟踪记录，没有试验证明多喝奶能防痛风。少吃不能代替降尿酸药，靠忌口降不到达标线，见第 9 条（确诊痛风就长期吃降尿酸药）。加工肉和酒按死亡率算的账见第 2 节第 18 条（少吃加工肉）和第 2 节第 19 条（少喝或不喝酒）",
+  "sources": [
+   {
+    "title": "Zhang Y, Chen C, Choi H, Chaisson C, Hunter D, Niu J, Neogi T (2012). Purine-rich foods intake and recurrent gout attacks. Annals of the Rheumatic Diseases, 71(9), 1448-1453",
+    "url": "https://doi.org/10.1136/annrheumdis-2011-201215"
+   },
+   {
+    "title": "Neogi T, Chen C, Niu J, Chaisson C, Hunter DJ, Zhang Y (2014). Alcohol quantity and type on risk of recurrent gout attacks: an internet-based case-crossover study. The American Journal of Medicine, 127(4), 311-318",
+    "url": "https://doi.org/10.1016/j.amjmed.2013.12.019"
+   },
+   {
+    "title": "Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G (2004). Purine-rich foods, dairy and protein intake, and the risk of gout in men. New England Journal of Medicine, 350(11), 1093-1103",
+    "url": "https://doi.org/10.1056/NEJMoa035700"
+   },
+   {
+    "title": "Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G (2004). Alcohol intake and risk of incident gout in men: a prospective study. Lancet, 363(9417), 1277-1281",
+    "url": "https://doi.org/10.1016/S0140-6736(04)16000-5"
+   },
+   {
+    "title": "Major TJ, Topless RK, Dalbeth N, Merriman TR (2018). Evaluation of the diet wide contribution to serum urate levels: meta-analysis of population based cohorts. BMJ, 363, k3951",
+    "url": "https://doi.org/10.1136/bmj.k3951"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "些",
+   "gain": "大",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-16-10",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/16-%E5%BE%97%E4%BA%86%E6%85%A2%E6%80%A7%E7%97%85%E4%B9%8B%E5%90%8E%E6%80%8E%E4%B9%88%E6%B4%BB.md#10-得过痛风的吃烧烤聚餐时别一顿吃下大量肉和海鲜酒也要少喝"
  },
  {
   "id": "17-1",
