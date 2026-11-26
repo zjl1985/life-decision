@@ -2085,6 +2085,55 @@
   "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#49-咳嗽咳痰两周以上或者痰里带血去结核病定点医院查肺结核确诊了按方案把药吃满别觉得好了就停"
  },
  {
+  "id": "1-50",
+  "chapter": 1,
+  "chapterTitle": "不要早死",
+  "chapterShortTitle": "不要早死",
+  "number": 50,
+  "title": "在家把做好的饭菜两小时内放进冰箱、不用等放凉，冷藏的剩菜三四天内吃完、吃前热透，冻肉放冷藏室或用微波炉解冻",
+  "body": "饭菜做好后两小时内放进冰箱，热的可以直接放，不用等凉。冷藏的剩菜三四天内吃完，吃前热透。冻肉放冷藏室或用微波炉解冻，微波炉化完马上煮，别放在台面上化。全国十一年报告的蜡样芽孢杆菌食物中毒里，约四分之一只查出存放不当这一个原因。",
+  "cost": "不花钱。大锅的汤和菜分装进浅一点的盒子，多洗几个盒子。冻肉要提前一天挪进冷藏室。难在改掉「放凉了再进冰箱」和「早上把肉拿出来、晚上回来做」的习惯。",
+  "benefit": "国家卫健委 2024 年 6 月开过一场新闻发布会。国家食品安全风险评估中心的专家在会上说，剩饭菜「最好及时放到冰箱里冷藏和冷冻」。他还说，从冰箱里拿出来的剩饭剩菜「一定要充分加热再食用」。世界卫生组织《食品安全五大要点》写明，熟食在室温下不得存放 2 小时以上。熟食和容易坏的食物要及时冷藏，最好在 5℃ 以下。5℃ 到 60℃ 是危险范围，微生物在这个范围里繁殖很快。剩饭菜在冰箱里不要放超过 3 天，重复加热不能超过一次。冷冻食品不要在室温下化冻，要在冰箱里或者冷的环境下化。用微波炉解冻的，解冻完要立刻烹饪。美国农业部食品安全检验局的说法大体一致。饭菜做好后 2 小时内要冷藏，气温高于约 32℃（原文 90°F）时缩短到 1 小时。热的食物可以直接放进冰箱。大锅的汤要分装进浅容器，这样凉得快。剩菜冷藏可以放 3 到 4 天。再加热要热到约 74℃（原文 165°F），或者热到整份冒热气，汤和酱汁要烧到滚开。解冻有三种安全办法：放冷藏室、泡冷水、用微波炉。泡冷水要装进不漏的袋子，每 30 分钟换一次水，化开后马上煮。冻肉摆在台面上化，中心还冻着，外层可能已经进了细菌繁殖快的温度。国内的数据来自全国食源性疾病暴发监测。2010 到 2020 年，全国共报告蜡样芽孢杆菌引起的食物中毒 419 起。发病 7892 人，住院 2786 人，死亡 5 人。米面制品引起的最多，有 194 起，其中米饭和米制品 158 起。只查出一个原因的事件里，存放不当最多，有 111 起，占全部事件的 26.49%。按做饭的场所分，在家里做的饭引起的事件病死率最高，是 1.37%（中国 / 全球 / 美国）",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "这些时间和温度是官方给的做法，没有研究把人分成照做和不照做两组来比。国内那组数字只算了蜡样芽孢杆菌一种细菌，也只算了上报的事件。这种菌引起的中毒分呕吐和腹泻两类，十一年里上报的死亡是 5 人，所以收益定为小。冰箱只能让细菌长得慢，杀不死细菌。世界卫生组织写明，有些危险的微生物在 5℃ 以下仍能生长，所以冷藏的剩菜也有期限。世界卫生组织写 3 天，美国农业部写 3 到 4 天，拿不准就按短的算。吃多少热多少，热过一次没吃完的就别再留。用冷藏室解冻，一斤左右的肉也要整整一天，要提前拿出来。来不及解冻的，冻着直接下锅煮也是安全的。泡发太久的木耳和放久的湿米粉是另一种毒，煮开了也去不掉，见本节第 48 条（泡发的木耳、湿米粉）。怀孕的人另有一份要避开的食物清单，见第 27 节第 21 条（熟食和剩菜热透再吃）。受益人是你自己和同桌吃饭的家人。",
+  "sources": [
+   {
+    "title": "国家卫生健康委员会 (2024). 国家卫生健康委员会2024年6月21日新闻发布会文字实录（国家卫生健康委食品安全评估中心副主任刘兆平答问）：「对于一些没有用完的食材，或者剩饭菜，最好及时放到冰箱里冷藏和冷冻」「我们从冰箱里拿出来剩饭剩菜来食用时，一定要充分加热再食用，这样更安全」",
+    "url": "https://www.nhc.gov.cn/xcs/c100122/202406/03d4253c5a8e4b9cad4c695ddc7d2e25.shtml"
+   },
+   {
+    "title": "世界卫生组织 (2006). 《食品安全五大要点》培训手册（中文版，要点 4：在安全的温度下保存食物）：「熟食在室温下不得存放 2 小时以上」「不要在冰箱中存放剩饭菜超过 3 天，重复加热不能超过一次」「食物化冻应在冰箱中或冷的环境下进行」",
+    "url": "https://iris.who.int/handle/10665/43546"
+   },
+   {
+    "title": "USDA Food Safety and Inspection Service (2023). \"Danger Zone\" (40°F - 140°F)：「Never leave food out of refrigeration over 2 hours. If the temperature is above 90 °F, food should not be left out more than 1 hour.」",
+    "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f"
+   },
+   {
+    "title": "USDA Food Safety and Inspection Service (2020). Leftovers and Food Safety：「Hot food can be placed directly in the refrigerator or be rapidly chilled in an ice or cold water bath before refrigerating.」「Leftovers can be …",
+    "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety"
+   },
+   {
+    "title": "USDA Food Safety and Inspection Service (2013). The Big Thaw — Safe Defrosting Methods：「Perishable foods should never be thawed on the counter, or in hot water and must not be left at room temperature for more than two…",
+    "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/big-thaw-safe-defrosting-methods"
+   },
+   {
+    "title": "Duan S, Yu Y, Guo Y, et al. (2023). Epidemiological Evaluation of Bacillus cereus-Induced Foodborne Outbreaks — China, 2010–2020. China CDC Weekly 5(33):737-741：「From 2010 to 2020, a total of 419 foodborne outbreaks pr…",
+    "url": "https://doi.org/10.46234/ccdcw2023.140"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "些",
+   "gain": "小",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-1-50",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/01-%E4%B8%8D%E8%A6%81%E6%97%A9%E6%AD%BB.md#50-在家把做好的饭菜两小时内放进冰箱不用等放凉冷藏的剩菜三四天内吃完吃前热透冻肉放冷藏室或用微波炉解冻"
+ },
+ {
   "id": "2-1",
   "chapter": 2,
   "chapterTitle": "不要慢慢死",
@@ -25647,6 +25696,75 @@
   },
   "url": "https://eternity4719.github.io/HowToLiveBetter/#e-27-20",
   "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/27-%E6%80%80%E5%AD%95%E5%92%8C%E7%94%9F%E4%BA%A7.md#20-生完孩子恢复同房就要避孕喂奶不等于避孕想要下一胎至少隔-18-个月再怀世卫建议至少隔两年"
+ },
+ {
+  "id": "27-21",
+  "chapter": 27,
+  "chapterTitle": "怀孕和生产：从发现怀孕到出院办证",
+  "chapterShortTitle": "怀孕和生产",
+  "number": 21,
+  "title": "怀孕期间不吃没经过巴氏消毒的奶和软奶酪、冷的熟食卤味和冷熏鱼，冰箱里拿出来的熟食和剩菜热透再吃",
+  "body": "李斯特菌在冰箱冷藏室里照样能繁殖。孕妇染上了自己可能只像得了流感，孩子却可能流产、死胎，或者一出生就重病。这种病少见，美国每年约每 25000 名孕妇里有 1 人染上。冷的熟食、卤味和剩菜热到冒热气再吃，没消毒的生奶别喝。",
+  "cost": "不花钱。熟食、卤味、剩菜吃之前多热一遍。难在整个孕期不能图省事直接吃凉的",
+  "benefit": "国家食品安全风险评估中心评估过熟肉制品里的李斯特菌。熟肉制品指酱卤牛羊肉、烧鸡、烤鸭、叉烧这类直接能吃的肉。评估说，熟肉制品可能是国内居民得李斯特菌病风险较高的一类食品。六个省监测的熟肉制品平均 3.37% 带菌，散装的检出率比同类预包装的高。它建议孕妇、65 岁及以上老人和免疫功能低下的人少吃熟肉制品，并且加热后再吃。按它的模型，吃之前让食品表面温度达到近 60 ℃，平均风险降低约 1000 倍。它对全国居民因熟肉制品得这种病的结论是「风险很低」。中国疾控中心 2026 年的科普说，李斯特氏菌在 5 到 45 ℃ 都能生长。它写明「孕妇和老人吃的熟食，一定要彻底加热」。世界卫生组织说，这种菌能在冰箱常见的低温下存活和繁殖，食物冷藏得越久菌越多。它说这种病比较少见，各国每年每 100 万人有 0.1 到 10 例。它说孕妇得病的可能约是其他健康成年人的 20 倍，美国食品药品监督管理局说约 10 倍。美国食品药品监督管理局说，孕妇自己可能只有像流感的轻症，或者完全没感觉。但感染可能导致流产、死胎、早产、孩子出生体重低，新生儿可能得血液感染和脑膜炎。美国疾病控制与预防中心说，美国每年约每 25000 名孕妇里有 1 人感染。染上的孕妇约四分之一会失去胎儿，或者孩子出生后不久死亡。国内一篇 2026 年的汇总收了 73 项研究，共 956 名孕妇、749 名新生儿。按其中 9 项研究算，每 10 万次怀孕约有 11.57 例（95% CI 7.63–15.50，可信范围）。汇总里得了这种病的怀孕，58.3% 出现流产、死胎、早产或孩子出生体重低，孕妇死亡 2 例。得病的新生儿病死率 11%。另一篇汇总看 2011 到 2017 年国内报道的病例。231 名围产期病人里，32.68% 流产或新生儿死亡。围产期指怀孕和刚生产前后。国内 2013 到 2022 年的专项监测共报告 800 例，其中 466 例是围产期病例。研究者拿其中一部分病人和没得病的人比最近 4 周吃过什么。围产期这一组里，吃剩菜的比值比 OR 1.92（95% CI 1.03–3.59）。吃冰淇淋的 OR 2.09（1.23–3.55）。吃凉拌菜的 OR 1.11（0.67–1.86），没看出差别。吃熟肉制品的 OR 0.79（0.48–1.30），也没看出差别。家里生熟分开的 OR 0.27（0.14–0.51），得病的更少。这项研究的作者建议孕妇把剩菜热到冒热气再吃。美国疾病控制与预防中心给孕妇列了要避开的食物。有没加热的熟食肉、冷切肉、热狗，冷藏的熏鱼和肉酱。有生奶和生奶做的奶酪、酸奶、冰淇淋，还有现成的熟食沙拉和生芽菜。它说熟食肉重新加热到 165°F（约 74 ℃）或者热到冒热气，就可以吃。英国国家医疗服务体系（NHS）说，冷熏鱼和腌鱼要热到冒热气才能吃，生鱼和生贝类别吃。它还说，外面有一层白霉的软奶酪和软质蓝纹奶酪要做熟再吃，消过毒的也一样",
+  "evidence": "B",
+  "evidenceNote": null,
+  "note": "这种病少见，偶尔吃过一次凉的熟食不用慌。孕期发烧、比平时更累更酸痛，就去看医生，并说清最近吃过什么。国内那项对比里，吃剩菜前加热的人没看出风险更低（OR 0.60，0.19–1.86）。作者仍建议孕妇把剩菜热到冒热气。所以熟食和剩菜别在冰箱里久放，尽早吃完。冰淇淋的数字只来自这一项研究，靠事后回忆，各国清单点名的只有生奶做的冰淇淋，本条没把它列进做法。同一项研究里，家里每年至少清一两次冰箱的，得病的也更少。软奶酪怎么分，NHS 说消过毒的马苏里拉、奶油奶酪、再制奶酪可以吃。生奶指挤出来没经过巴氏消毒的奶。世界卫生组织说，巴氏消毒和做熟都能杀死这种菌。65 岁以上的人和免疫力低的人同样高危，美国过半的感染出在 65 岁以上，做法相同。防弓形虫的做法见本节第 17 条（肉要做熟）。剩菜多久进冰箱、放几天、冻肉怎么解冻，见第 1 节第 50 条（饭菜两小时内放进冰箱）。定 B 是因为感染后果有监测数字，但没有研究分组比较过照做能少多少感染。降低 1000 倍是模型算的。收益定「中」凭判断，理由在核实记录里。好处落在你自己和孩子身上",
+  "sources": [
+   {
+    "title": "国家食品安全风险评估中心. 熟肉制品中单核细胞增生李斯特菌初步定量风险评估（摘要）",
+    "url": "https://www.cfsa.net.cn/UpLoadFiles/news/upload/2022/2022-11/2d42f8f4-b6c4-47bd-956d-e24ff650e917.pdf"
+   },
+   {
+    "title": "中国疾病预防控制中心 (2026). 家里这个地方可能有点脏，但是你从未注意过！",
+    "url": "https://www.chinacdc.cn/jkkp/yyjk/jbyy/202607/t20260721_1838308.html"
+   },
+   {
+    "title": "World Health Organization. Listeriosis fact sheet",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/listeriosis"
+   },
+   {
+    "title": "U.S. Food and Drug Administration. Listeria (Food Safety for Moms-to-Be)",
+    "url": "https://www.fda.gov/food/health-educators/listeria-food-safety-moms-be"
+   },
+   {
+    "title": "Centers for Disease Control and Prevention. People at Increased Risk for Listeria Infection",
+    "url": "https://www.cdc.gov/listeria/risk-factors/index.html"
+   },
+   {
+    "title": "Centers for Disease Control and Prevention. Preventing Listeria Infection",
+    "url": "https://www.cdc.gov/listeria/prevention/index.html"
+   },
+   {
+    "title": "FoodSafety.gov. People at Risk: Pregnant Women",
+    "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+   },
+   {
+    "title": "NHS. Foods to avoid in pregnancy",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+   },
+   {
+    "title": "Gao B, Miao Y, Miao R, Ye H (2026). Listeriosis in Pregnant Women and Neonates in China: A Systematic Review. Journal of Clinical Medicine, 15(15), 5915",
+    "url": "https://doi.org/10.3390/jcm15155915"
+   },
+   {
+    "title": "Fan Z, Xie J, Li Y, Wang H (2019). Listeriosis in mainland China: A systematic review. International Journal of Infectious Diseases, 81, 17-24",
+    "url": "https://doi.org/10.1016/j.ijid.2019.01.007"
+   },
+   {
+    "title": "Niu Y, Li W, Xu B, et al. (2024). Risk factors associated with food consumption and food-handling habits for sporadic listeriosis: a case-control study in China from 2013 to 2022. Emerging Microbes & Infections, 13(1),…",
+    "url": "https://doi.org/10.1080/22221751.2024.2307520"
+   }
+  ],
+  "tags": {
+   "money": "0",
+   "time": "少",
+   "willpower": "些",
+   "gain": "中",
+   "metric": "死亡率"
+  },
+  "url": "https://eternity4719.github.io/HowToLiveBetter/#e-27-21",
+  "githubUrl": "https://github.com/eternity4719/HowToLiveBetter/blob/main/book/27-%E6%80%80%E5%AD%95%E5%92%8C%E7%94%9F%E4%BA%A7.md#21-怀孕期间不吃没经过巴氏消毒的奶和软奶酪冷的熟食卤味和冷熏鱼冰箱里拿出来的熟食和剩菜热透再吃"
  },
  {
   "id": "28-1",
